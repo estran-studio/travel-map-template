@@ -1,6 +1,6 @@
 {
   "id": "new_mexico",
-  "name": "New mexico",
+  "name": "New Mexico",
   "route": {
     "start": {
       "latitude": 32.8897525,
@@ -2716,5 +2716,5 @@
     }
   ],
   "independentPhotos": [],
-  "description": "Auto-generated itinerary for new_mexico"
+  "description": ""
 }

@@ -1,6 +1,6 @@
 {
   "id": "usa_2025",
-  "name": "Usa 2025",
+  "name": "USA 2025",
   "startDate": "2024-11-26T22:43:49Z",
   "endDate": "2025-08-14T20:56:15Z",
   "itineraries": [
@@ -11,5 +11,5 @@
     "nort_west",
     "bc_2025"
   ],
-  "description": "Auto-generated travel document for usa_2025"
+  "description": ""
 }

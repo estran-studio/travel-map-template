@@ -1,6 +1,6 @@
 {
   "id": "nort_west",
-  "name": "Nort west",
+  "name": "Northwest",
   "route": {
     "start": {
       "latitude": 39.5211071,
@@ -1248,5 +1248,5 @@
     }
   ],
   "independentPhotos": [],
-  "description": "Auto-generated itinerary for nort_west"
+  "description": ""
 }

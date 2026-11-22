@@ -18,12 +18,13 @@ const config = {
 			cloudName: 'dgg5cyhsu', // Replace with your Cloudinary cloud name
 			baseUrl: 'https://res.cloudinary.com/dgg5cyhsu/image/upload',
 			
-			// Pre-defined transformations for different image sizes
+			// Pre-defined transformations for different image sizes.
+			// thumbnail: square grid tiles and map markers; medium/large: the lightbox srcset (960w / 2048w).
 			transformations: {
-				thumbnail: 'c_limit,w_400,h_300,q_auto:eco,f_auto',
-				medium: 'c_limit,w_800,h_600,q_auto:good,f_auto',
-				large: 'c_limit,w_1200,h_900,q_auto:good,f_auto',
-				original: 'q_auto:good,f_auto'
+				thumbnail: 'c_fill,g_auto,w_400,h_400,q_auto,f_auto',
+				medium: 'c_limit,w_960,h_960,q_auto,f_auto',
+				large: 'c_limit,w_2048,h_2048,q_auto,f_auto',
+				original: 'q_auto,f_auto'
 			}
 		}
 	}

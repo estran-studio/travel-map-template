@@ -1,6 +1,6 @@
 {
   "id": "rust_belt",
-  "name": "Rust belt",
+  "name": "Rust Belt",
   "route": {
     "start": {
       "latitude": 44.707160799722224,
@@ -1553,5 +1553,5 @@
     }
   ],
   "independentPhotos": [],
-  "description": "Auto-generated itinerary for rust_belt"
+  "description": ""
 }

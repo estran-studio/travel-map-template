@@ -1,6 +1,6 @@
 {
   "id": "new_orlean_missisipi",
-  "name": "New orlean missisipi",
+  "name": "New Orleans & Mississippi",
   "route": {
     "start": {
       "latitude": 30.458005499722223,
@@ -600,5 +600,5 @@
     }
   ],
   "independentPhotos": [],
-  "description": "Auto-generated itinerary for new_orlean_missisipi"
+  "description": ""
 }

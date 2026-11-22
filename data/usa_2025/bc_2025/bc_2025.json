@@ -1,6 +1,6 @@
 {
   "id": "bc_2025",
-  "name": "Bc 2025",
+  "name": "British Columbia",
   "route": {
     "start": {
       "latitude": 49.115400999722226,
@@ -2840,5 +2840,5 @@
     }
   ],
   "independentPhotos": [],
-  "description": "Auto-generated itinerary for bc_2025"
+  "description": ""
 }
