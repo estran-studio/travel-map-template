@@ -1,0 +1,2352 @@
+{
+  "id": "quebec_2026",
+  "name": "Québec 2026",
+  "route": {
+    "start": {
+      "latitude": 45.20881666666667,
+      "longitude": -74.34744722222221
+    },
+    "end": {
+      "latitude": 45.64546111111111,
+      "longitude": -61.657444444444444
+    },
+    "path": [
+      {
+        "latitude": 45.20881666666667,
+        "longitude": -74.34744722222221,
+        "date": "2026-03-28T15:50:31Z"
+      },
+      {
+        "latitude": 45.69060555555555,
+        "longitude": -73.43610833333334,
+        "date": "2026-03-30T23:53:08Z"
+      },
+      {
+        "latitude": 45.68751944444444,
+        "longitude": -73.44085833333334,
+        "date": "2026-03-30T23:59:44Z"
+      },
+      {
+        "latitude": 45.65329444444444,
+        "longitude": -73.33850833333332,
+        "date": "2026-04-08T16:22:25Z"
+      },
+      {
+        "latitude": 45.49313611111111,
+        "longitude": -74.03103888888889,
+        "date": "2026-04-22T15:29:38Z"
+      },
+      {
+        "latitude": 45.465300000000006,
+        "longitude": -74.07183055555555,
+        "date": "2026-04-22T16:23:16Z"
+      },
+      {
+        "latitude": 45.524002777777774,
+        "longitude": -74.20813055555556,
+        "date": "2026-04-22T17:59:38Z"
+      },
+      {
+        "latitude": 46.00400555555556,
+        "longitude": -74.21818888888889,
+        "date": "2026-04-26T18:19:23Z"
+      },
+      {
+        "latitude": 46.34427222222222,
+        "longitude": -74.27146388888889,
+        "date": "2026-04-30T14:28:05Z"
+      },
+      {
+        "latitude": 46.295852777777775,
+        "longitude": -74.29355833333334,
+        "date": "2026-04-30T20:00:32Z"
+      },
+      {
+        "latitude": 46.758855555555556,
+        "longitude": -71.21421111111111,
+        "date": "2026-05-18T14:50:24Z"
+      },
+      {
+        "latitude": 46.817797222222225,
+        "longitude": -71.20423333333333,
+        "date": "2026-05-24T22:14:39Z"
+      },
+      {
+        "latitude": 46.801249999999996,
+        "longitude": -71.24377777777778,
+        "date": "2026-05-26T20:00:09Z"
+      },
+      {
+        "latitude": 47.03276944444444,
+        "longitude": -70.47311111111111,
+        "date": "2026-05-28T14:37:29Z"
+      },
+      {
+        "latitude": 47.04272222222222,
+        "longitude": -70.47209722222222,
+        "date": "2026-05-28T19:44:08Z"
+      },
+      {
+        "latitude": 47.20348611111111,
+        "longitude": -70.28084444444444,
+        "date": "2026-05-29T17:54:52Z"
+      },
+      {
+        "latitude": 47.31227222222222,
+        "longitude": -70.17748888888889,
+        "date": "2026-05-29T20:22:19Z"
+      },
+      {
+        "latitude": 47.37538055555556,
+        "longitude": -70.03528333333333,
+        "date": "2026-05-30T16:10:46Z"
+      },
+      {
+        "latitude": 47.41253611111111,
+        "longitude": -69.93711388888889,
+        "date": "2026-05-30T18:01:29Z"
+      },
+      {
+        "latitude": 47.50597777777778,
+        "longitude": -69.80385555555556,
+        "date": "2026-05-31T09:22:07Z"
+      },
+      {
+        "latitude": 47.57792777777778,
+        "longitude": -69.83297222222222,
+        "date": "2026-05-31T11:02:12Z"
+      },
+      {
+        "latitude": 47.703783333333334,
+        "longitude": -69.69858055555557,
+        "date": "2026-05-31T11:50:11Z"
+      },
+      {
+        "latitude": 47.707147222222225,
+        "longitude": -69.69803055555556,
+        "date": "2026-05-31T12:34:19Z"
+      },
+      {
+        "latitude": 47.70525833333333,
+        "longitude": -69.68900555555555,
+        "date": "2026-05-31T13:19:41Z"
+      },
+      {
+        "latitude": 47.93432222222222,
+        "longitude": -69.50998611111112,
+        "date": "2026-05-31T19:23:32Z"
+      },
+      {
+        "latitude": 47.93720555555555,
+        "longitude": -69.51618333333333,
+        "date": "2026-05-31T19:30:49Z"
+      },
+      {
+        "latitude": 47.95030555555556,
+        "longitude": -69.46528055555555,
+        "date": "2026-05-31T20:18:59Z"
+      },
+      {
+        "latitude": 47.97581111111111,
+        "longitude": -69.45390277777778,
+        "date": "2026-05-31T20:24:21Z"
+      },
+      {
+        "latitude": 48.00319722222222,
+        "longitude": -69.41340555555556,
+        "date": "2026-06-01T16:35:21Z"
+      },
+      {
+        "latitude": 48.31721944444445,
+        "longitude": -68.86678611111111,
+        "date": "2026-06-01T19:45:18Z"
+      },
+      {
+        "latitude": 48.32046666666667,
+        "longitude": -68.85983333333333,
+        "date": "2026-06-01T20:02:29Z"
+      },
+      {
+        "latitude": 48.371075,
+        "longitude": -68.70823611111112,
+        "date": "2026-06-02T14:32:22Z"
+      },
+      {
+        "latitude": 48.51627777777778,
+        "longitude": -68.47033333333333,
+        "date": "2026-06-03T11:40:59Z"
+      },
+      {
+        "latitude": 48.414722222222224,
+        "longitude": -68.5559611111111,
+        "date": "2026-06-03T15:40:39Z"
+      },
+      {
+        "latitude": 48.42164444444444,
+        "longitude": -68.55079722222222,
+        "date": "2026-06-03T15:59:41Z"
+      },
+      {
+        "latitude": 48.435602777777774,
+        "longitude": -68.3195361111111,
+        "date": "2026-06-05T10:50:30Z"
+      },
+      {
+        "latitude": 48.44730277777777,
+        "longitude": -68.4581388888889,
+        "date": "2026-06-06T09:48:28Z"
+      },
+      {
+        "latitude": 48.45720555555556,
+        "longitude": -68.48748888888889,
+        "date": "2026-06-07T11:24:42Z"
+      },
+      {
+        "latitude": 48.52502222222222,
+        "longitude": -68.10728611111111,
+        "date": "2026-06-21T12:20:58Z"
+      },
+      {
+        "latitude": 48.518025,
+        "longitude": -68.15161944444445,
+        "date": "2026-06-21T14:57:23Z"
+      },
+      {
+        "latitude": 48.438424999999995,
+        "longitude": -68.31768333333333,
+        "date": "2026-06-26T10:20:50Z"
+      },
+      {
+        "latitude": 48.52498611111111,
+        "longitude": -68.10751111111111,
+        "date": "2026-06-27T10:33:21Z"
+      },
+      {
+        "latitude": 48.44269166666666,
+        "longitude": -68.58018888888888,
+        "date": "2026-07-09T19:28:43Z"
+      },
+      {
+        "latitude": 48.4473,
+        "longitude": -68.45811944444445,
+        "date": "2026-07-20T17:59:59Z"
+      },
+      {
+        "latitude": 48.45052777777778,
+        "longitude": -68.31383055555555,
+        "date": "2026-07-25T16:03:16Z"
+      },
+      {
+        "latitude": 48.44367777777777,
+        "longitude": -68.30791388888889,
+        "date": "2026-07-29T19:49:43Z"
+      },
+      {
+        "latitude": 48.44731944444444,
+        "longitude": -68.45815555555556,
+        "date": "2026-07-30T20:09:48Z"
+      },
+      {
+        "latitude": 49.39341388888889,
+        "longitude": -67.30611944444445,
+        "date": "2026-08-04T16:13:49Z"
+      },
+      {
+        "latitude": 49.61990277777778,
+        "longitude": -67.21238611111112,
+        "date": "2026-08-04T19:56:33Z"
+      },
+      {
+        "latitude": 50.09941666666667,
+        "longitude": -66.70833611111111,
+        "date": "2026-08-05T17:38:27Z"
+      },
+      {
+        "latitude": 50.07358055555556,
+        "longitude": -66.72529444444444,
+        "date": "2026-08-06T18:10:38Z"
+      },
+      {
+        "latitude": 50.28627777777778,
+        "longitude": -65.50441666666667,
+        "date": "2026-08-11T11:45:42Z"
+      },
+      {
+        "latitude": 50.301405555555554,
+        "longitude": -63.82407222222223,
+        "date": "2026-08-12T17:33:32Z"
+      },
+      {
+        "latitude": 50.211913888888894,
+        "longitude": -63.45682222222222,
+        "date": "2026-08-13T18:44:19Z"
+      },
+      {
+        "latitude": 50.206430555555556,
+        "longitude": -63.451286111111116,
+        "date": "2026-08-13T19:10:22Z"
+      },
+      {
+        "latitude": 50.301775,
+        "longitude": -65.334425,
+        "date": "2026-08-14T17:27:19Z"
+      },
+      {
+        "latitude": 48.43894444444444,
+        "longitude": -68.58638611111111,
+        "date": "2026-08-17T13:22:54Z"
+      },
+      {
+        "latitude": 45.55531388888889,
+        "longitude": -62.347100000000005,
+        "date": "2026-08-26T17:28:25Z"
+      },
+      {
+        "latitude": 45.64546111111111,
+        "longitude": -61.657444444444444,
+        "date": "2026-08-27T14:14:14Z"
+      }
+    ]
+  },
+  "startDate": "2026-03-28T15:50:31Z",
+  "endDate": "2026-08-27T14:14:14Z",
+  "photoClusters": [
+    {
+      "id": "cluster-1",
+      "photos": [
+        {
+          "id": "20260328_155031(0).jpg",
+          "url": "north_america/quebec_2026/20260328_155031(0)",
+          "position": {
+            "latitude": 45.20881666666667,
+            "longitude": -74.34744722222221
+          },
+          "date": "2026-03-28T15:50:31Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364483/north_america/quebec_2026/20260328_155031%280%29.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364483/north_america/quebec_2026/20260328_155031%280%29.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364483/north_america/quebec_2026/20260328_155031%280%29.jpg",
+            "public_id": "north_america/quebec_2026/20260328_155031(0)"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 45.20881666666667,
+        "longitude": -74.34744722222221
+      }
+    },
+    {
+      "id": "cluster-2",
+      "photos": [
+        {
+          "id": "20260330_235306.jpg",
+          "url": "north_america/quebec_2026/20260330_235306",
+          "position": {
+            "latitude": 45.69060555555555,
+            "longitude": -73.43610833333334
+          },
+          "date": "2026-03-30T23:53:08Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364485/north_america/quebec_2026/20260330_235306.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364485/north_america/quebec_2026/20260330_235306.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364485/north_america/quebec_2026/20260330_235306.jpg",
+            "public_id": "north_america/quebec_2026/20260330_235306"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 45.69060555555555,
+        "longitude": -73.43610833333334
+      }
+    },
+    {
+      "id": "cluster-3",
+      "photos": [
+        {
+          "id": "20260330_235942.jpg",
+          "url": "north_america/quebec_2026/20260330_235942",
+          "position": {
+            "latitude": 45.68751944444444,
+            "longitude": -73.44085833333334
+          },
+          "date": "2026-03-30T23:59:44Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364487/north_america/quebec_2026/20260330_235942.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364487/north_america/quebec_2026/20260330_235942.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364487/north_america/quebec_2026/20260330_235942.jpg",
+            "public_id": "north_america/quebec_2026/20260330_235942"
+          }
+        },
+        {
+          "id": "20260331_000646.jpg",
+          "url": "north_america/quebec_2026/20260331_000646",
+          "position": {
+            "latitude": 45.68321944444444,
+            "longitude": -73.44248611111111
+          },
+          "date": "2026-03-31T00:06:47Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364489/north_america/quebec_2026/20260331_000646.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364489/north_america/quebec_2026/20260331_000646.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364489/north_america/quebec_2026/20260331_000646.jpg",
+            "public_id": "north_america/quebec_2026/20260331_000646"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 45.68536944444444,
+        "longitude": -73.44167222222222
+      }
+    },
+    {
+      "id": "cluster-4",
+      "photos": [
+        {
+          "id": "20260408_162225.jpg",
+          "url": "north_america/quebec_2026/20260408_162225",
+          "position": {
+            "latitude": 45.65329444444444,
+            "longitude": -73.33850833333332
+          },
+          "date": "2026-04-08T16:22:25Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364492/north_america/quebec_2026/20260408_162225.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364492/north_america/quebec_2026/20260408_162225.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364492/north_america/quebec_2026/20260408_162225.jpg",
+            "public_id": "north_america/quebec_2026/20260408_162225"
+          }
+        },
+        {
+          "id": "20260408_162304.jpg",
+          "url": "north_america/quebec_2026/20260408_162304",
+          "position": {
+            "latitude": 45.65326111111111,
+            "longitude": -73.33844722222221
+          },
+          "date": "2026-04-08T16:23:04Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364495/north_america/quebec_2026/20260408_162304.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364495/north_america/quebec_2026/20260408_162304.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364495/north_america/quebec_2026/20260408_162304.jpg",
+            "public_id": "north_america/quebec_2026/20260408_162304"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 45.653277777777774,
+        "longitude": -73.33847777777777
+      }
+    },
+    {
+      "id": "cluster-5",
+      "photos": [
+        {
+          "id": "20260422_152938.jpg",
+          "url": "north_america/quebec_2026/20260422_152938",
+          "position": {
+            "latitude": 45.49313611111111,
+            "longitude": -74.03103888888889
+          },
+          "date": "2026-04-22T15:29:38Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364498/north_america/quebec_2026/20260422_152938.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364498/north_america/quebec_2026/20260422_152938.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364498/north_america/quebec_2026/20260422_152938.jpg",
+            "public_id": "north_america/quebec_2026/20260422_152938"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 45.49313611111111,
+        "longitude": -74.03103888888889
+      }
+    },
+    {
+      "id": "cluster-6",
+      "photos": [
+        {
+          "id": "20260422_162315.jpg",
+          "url": "north_america/quebec_2026/20260422_162315",
+          "position": {
+            "latitude": 45.465300000000006,
+            "longitude": -74.07183055555555
+          },
+          "date": "2026-04-22T16:23:16Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364501/north_america/quebec_2026/20260422_162315.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364501/north_america/quebec_2026/20260422_162315.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364501/north_america/quebec_2026/20260422_162315.jpg",
+            "public_id": "north_america/quebec_2026/20260422_162315"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 45.465300000000006,
+        "longitude": -74.07183055555555
+      }
+    },
+    {
+      "id": "cluster-7",
+      "photos": [
+        {
+          "id": "20260422_175937.jpg",
+          "url": "north_america/quebec_2026/20260422_175937",
+          "position": {
+            "latitude": 45.524002777777774,
+            "longitude": -74.20813055555556
+          },
+          "date": "2026-04-22T17:59:38Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364505/north_america/quebec_2026/20260422_175937.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364505/north_america/quebec_2026/20260422_175937.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364505/north_america/quebec_2026/20260422_175937.jpg",
+            "public_id": "north_america/quebec_2026/20260422_175937"
+          }
+        },
+        {
+          "id": "20260422_180721.jpg",
+          "url": "north_america/quebec_2026/20260422_180721",
+          "position": {
+            "latitude": 45.52547222222222,
+            "longitude": -74.20925555555556
+          },
+          "date": "2026-04-22T18:07:21Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364508/north_america/quebec_2026/20260422_180721.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364508/north_america/quebec_2026/20260422_180721.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364508/north_america/quebec_2026/20260422_180721.jpg",
+            "public_id": "north_america/quebec_2026/20260422_180721"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 45.5247375,
+        "longitude": -74.20869305555556
+      }
+    },
+    {
+      "id": "cluster-8",
+      "photos": [
+        {
+          "id": "20260426_181923.jpg",
+          "url": "north_america/quebec_2026/20260426_181923",
+          "position": {
+            "latitude": 46.00400555555556,
+            "longitude": -74.21818888888889
+          },
+          "date": "2026-04-26T18:19:23Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364510/north_america/quebec_2026/20260426_181923.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364510/north_america/quebec_2026/20260426_181923.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364510/north_america/quebec_2026/20260426_181923.jpg",
+            "public_id": "north_america/quebec_2026/20260426_181923"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 46.00400555555556,
+        "longitude": -74.21818888888889
+      }
+    },
+    {
+      "id": "cluster-9",
+      "photos": [
+        {
+          "id": "20260430_142804.jpg",
+          "url": "north_america/quebec_2026/20260430_142804",
+          "position": {
+            "latitude": 46.34427222222222,
+            "longitude": -74.27146388888889
+          },
+          "date": "2026-04-30T14:28:05Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364513/north_america/quebec_2026/20260430_142804.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364513/north_america/quebec_2026/20260430_142804.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364513/north_america/quebec_2026/20260430_142804.jpg",
+            "public_id": "north_america/quebec_2026/20260430_142804"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 46.34427222222222,
+        "longitude": -74.27146388888889
+      }
+    },
+    {
+      "id": "cluster-10",
+      "photos": [
+        {
+          "id": "20260430_200032.jpg",
+          "url": "north_america/quebec_2026/20260430_200032",
+          "position": {
+            "latitude": 46.295852777777775,
+            "longitude": -74.29355833333334
+          },
+          "date": "2026-04-30T20:00:32Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364516/north_america/quebec_2026/20260430_200032.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364516/north_america/quebec_2026/20260430_200032.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364516/north_america/quebec_2026/20260430_200032.jpg",
+            "public_id": "north_america/quebec_2026/20260430_200032"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 46.295852777777775,
+        "longitude": -74.29355833333334
+      }
+    },
+    {
+      "id": "cluster-11",
+      "photos": [
+        {
+          "id": "20260518_145023.jpg",
+          "url": "north_america/quebec_2026/20260518_145023",
+          "position": {
+            "latitude": 46.758855555555556,
+            "longitude": -71.21421111111111
+          },
+          "date": "2026-05-18T14:50:24Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364519/north_america/quebec_2026/20260518_145023.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364519/north_america/quebec_2026/20260518_145023.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364519/north_america/quebec_2026/20260518_145023.jpg",
+            "public_id": "north_america/quebec_2026/20260518_145023"
+          }
+        },
+        {
+          "id": "20260518_151304.jpg",
+          "url": "north_america/quebec_2026/20260518_151304",
+          "position": {
+            "latitude": 46.75870277777778,
+            "longitude": -71.21279722222222
+          },
+          "date": "2026-05-18T15:13:04Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364523/north_america/quebec_2026/20260518_151304.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364523/north_america/quebec_2026/20260518_151304.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364523/north_america/quebec_2026/20260518_151304.jpg",
+            "public_id": "north_america/quebec_2026/20260518_151304"
+          }
+        },
+        {
+          "id": "20260521_165809.jpg",
+          "url": "north_america/quebec_2026/20260521_165809",
+          "position": {
+            "latitude": 46.75449444444445,
+            "longitude": -71.21273055555555
+          },
+          "date": "2026-05-21T16:58:09Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364529/north_america/quebec_2026/20260521_165809.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364529/north_america/quebec_2026/20260521_165809.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364529/north_america/quebec_2026/20260521_165809.jpg",
+            "public_id": "north_america/quebec_2026/20260521_165809"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 46.75735092592593,
+        "longitude": -71.21324629629629
+      }
+    },
+    {
+      "id": "cluster-12",
+      "photos": [
+        {
+          "id": "20260524_221438.jpg",
+          "url": "north_america/quebec_2026/20260524_221438",
+          "position": {
+            "latitude": 46.817797222222225,
+            "longitude": -71.20423333333333
+          },
+          "date": "2026-05-24T22:14:39Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364532/north_america/quebec_2026/20260524_221438.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364532/north_america/quebec_2026/20260524_221438.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364532/north_america/quebec_2026/20260524_221438.jpg",
+            "public_id": "north_america/quebec_2026/20260524_221438"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 46.817797222222225,
+        "longitude": -71.20423333333333
+      }
+    },
+    {
+      "id": "cluster-13",
+      "photos": [
+        {
+          "id": "20260526_200009.jpg",
+          "url": "north_america/quebec_2026/20260526_200009",
+          "position": {
+            "latitude": 46.801249999999996,
+            "longitude": -71.24377777777778
+          },
+          "date": "2026-05-26T20:00:09Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364535/north_america/quebec_2026/20260526_200009.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364535/north_america/quebec_2026/20260526_200009.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364535/north_america/quebec_2026/20260526_200009.jpg",
+            "public_id": "north_america/quebec_2026/20260526_200009"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 46.801249999999996,
+        "longitude": -71.24377777777778
+      }
+    },
+    {
+      "id": "cluster-14",
+      "photos": [
+        {
+          "id": "20260528_143729.jpg",
+          "url": "north_america/quebec_2026/20260528_143729",
+          "position": {
+            "latitude": 47.03276944444444,
+            "longitude": -70.47311111111111
+          },
+          "date": "2026-05-28T14:37:29Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364539/north_america/quebec_2026/20260528_143729.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364539/north_america/quebec_2026/20260528_143729.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364539/north_america/quebec_2026/20260528_143729.jpg",
+            "public_id": "north_america/quebec_2026/20260528_143729"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 47.03276944444444,
+        "longitude": -70.47311111111111
+      }
+    },
+    {
+      "id": "cluster-15",
+      "photos": [
+        {
+          "id": "20260528_194407.jpg",
+          "url": "north_america/quebec_2026/20260528_194407",
+          "position": {
+            "latitude": 47.04272222222222,
+            "longitude": -70.47209722222222
+          },
+          "date": "2026-05-28T19:44:08Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364542/north_america/quebec_2026/20260528_194407.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364542/north_america/quebec_2026/20260528_194407.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364542/north_america/quebec_2026/20260528_194407.jpg",
+            "public_id": "north_america/quebec_2026/20260528_194407"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 47.04272222222222,
+        "longitude": -70.47209722222222
+      }
+    },
+    {
+      "id": "cluster-16",
+      "photos": [
+        {
+          "id": "20260529_175452.jpg",
+          "url": "north_america/quebec_2026/20260529_175452",
+          "position": {
+            "latitude": 47.20348611111111,
+            "longitude": -70.28084444444444
+          },
+          "date": "2026-05-29T17:54:52Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364545/north_america/quebec_2026/20260529_175452.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364545/north_america/quebec_2026/20260529_175452.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364545/north_america/quebec_2026/20260529_175452.jpg",
+            "public_id": "north_america/quebec_2026/20260529_175452"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 47.20348611111111,
+        "longitude": -70.28084444444444
+      }
+    },
+    {
+      "id": "cluster-17",
+      "photos": [
+        {
+          "id": "20260529_202218.jpg",
+          "url": "north_america/quebec_2026/20260529_202218",
+          "position": {
+            "latitude": 47.31227222222222,
+            "longitude": -70.17748888888889
+          },
+          "date": "2026-05-29T20:22:19Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364547/north_america/quebec_2026/20260529_202218.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364547/north_america/quebec_2026/20260529_202218.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364547/north_america/quebec_2026/20260529_202218.jpg",
+            "public_id": "north_america/quebec_2026/20260529_202218"
+          }
+        },
+        {
+          "id": "20260529_202449.jpg",
+          "url": "north_america/quebec_2026/20260529_202449",
+          "position": {
+            "latitude": 47.31223055555555,
+            "longitude": -70.17752222222222
+          },
+          "date": "2026-05-29T20:24:49Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364550/north_america/quebec_2026/20260529_202449.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364550/north_america/quebec_2026/20260529_202449.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364550/north_america/quebec_2026/20260529_202449.jpg",
+            "public_id": "north_america/quebec_2026/20260529_202449"
+          }
+        },
+        {
+          "id": "20260530_114504.jpg",
+          "url": "north_america/quebec_2026/20260530_114504",
+          "position": {
+            "latitude": 47.31354722222222,
+            "longitude": -70.17592777777779
+          },
+          "date": "2026-05-30T11:45:04Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364553/north_america/quebec_2026/20260530_114504.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364553/north_america/quebec_2026/20260530_114504.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364553/north_america/quebec_2026/20260530_114504.jpg",
+            "public_id": "north_america/quebec_2026/20260530_114504"
+          }
+        },
+        {
+          "id": "20260530_114644.jpg",
+          "url": "north_america/quebec_2026/20260530_114644",
+          "position": {
+            "latitude": 47.31397222222222,
+            "longitude": -70.17604722222222
+          },
+          "date": "2026-05-30T11:46:44Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364556/north_america/quebec_2026/20260530_114644.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364556/north_america/quebec_2026/20260530_114644.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364556/north_america/quebec_2026/20260530_114644.jpg",
+            "public_id": "north_america/quebec_2026/20260530_114644"
+          }
+        },
+        {
+          "id": "20260530_114730.jpg",
+          "url": "north_america/quebec_2026/20260530_114730",
+          "position": {
+            "latitude": 47.314,
+            "longitude": -70.1760388888889
+          },
+          "date": "2026-05-30T11:47:30Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364560/north_america/quebec_2026/20260530_114730.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364560/north_america/quebec_2026/20260530_114730.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364560/north_america/quebec_2026/20260530_114730.jpg",
+            "public_id": "north_america/quebec_2026/20260530_114730"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 47.31320444444444,
+        "longitude": -70.17660500000001
+      }
+    },
+    {
+      "id": "cluster-18",
+      "photos": [
+        {
+          "id": "20260530_161045.jpg",
+          "url": "north_america/quebec_2026/20260530_161045",
+          "position": {
+            "latitude": 47.37538055555556,
+            "longitude": -70.03528333333333
+          },
+          "date": "2026-05-30T16:10:46Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364563/north_america/quebec_2026/20260530_161045.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364563/north_america/quebec_2026/20260530_161045.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364563/north_america/quebec_2026/20260530_161045.jpg",
+            "public_id": "north_america/quebec_2026/20260530_161045"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 47.37538055555556,
+        "longitude": -70.03528333333333
+      }
+    },
+    {
+      "id": "cluster-19",
+      "photos": [
+        {
+          "id": "20260530_180129.jpg",
+          "url": "north_america/quebec_2026/20260530_180129",
+          "position": {
+            "latitude": 47.41253611111111,
+            "longitude": -69.93711388888889
+          },
+          "date": "2026-05-30T18:01:29Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364565/north_america/quebec_2026/20260530_180129.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364565/north_america/quebec_2026/20260530_180129.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364565/north_america/quebec_2026/20260530_180129.jpg",
+            "public_id": "north_america/quebec_2026/20260530_180129"
+          }
+        },
+        {
+          "id": "20260530_181657.jpg",
+          "url": "north_america/quebec_2026/20260530_181657",
+          "position": {
+            "latitude": 47.414002777777775,
+            "longitude": -69.93942222222222
+          },
+          "date": "2026-05-30T18:16:57Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364568/north_america/quebec_2026/20260530_181657.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364568/north_america/quebec_2026/20260530_181657.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364568/north_america/quebec_2026/20260530_181657.jpg",
+            "public_id": "north_america/quebec_2026/20260530_181657"
+          }
+        },
+        {
+          "id": "20260530_184117.jpg",
+          "url": "north_america/quebec_2026/20260530_184117",
+          "position": {
+            "latitude": 47.41251666666667,
+            "longitude": -69.93711944444445
+          },
+          "date": "2026-05-30T18:41:17Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364570/north_america/quebec_2026/20260530_184117.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364570/north_america/quebec_2026/20260530_184117.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364570/north_america/quebec_2026/20260530_184117.jpg",
+            "public_id": "north_america/quebec_2026/20260530_184117"
+          }
+        },
+        {
+          "id": "20260530_202209.jpg",
+          "url": "north_america/quebec_2026/20260530_202209",
+          "position": {
+            "latitude": 47.41258888888889,
+            "longitude": -69.936975
+          },
+          "date": "2026-05-30T20:22:09Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364573/north_america/quebec_2026/20260530_202209.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364573/north_america/quebec_2026/20260530_202209.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364573/north_america/quebec_2026/20260530_202209.jpg",
+            "public_id": "north_america/quebec_2026/20260530_202209"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 47.412911111111114,
+        "longitude": -69.9376576388889
+      }
+    },
+    {
+      "id": "cluster-20",
+      "photos": [
+        {
+          "id": "20260531_092206.jpg",
+          "url": "north_america/quebec_2026/20260531_092206",
+          "position": {
+            "latitude": 47.50597777777778,
+            "longitude": -69.80385555555556
+          },
+          "date": "2026-05-31T09:22:07Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364577/north_america/quebec_2026/20260531_092206.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364577/north_america/quebec_2026/20260531_092206.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364577/north_america/quebec_2026/20260531_092206.jpg",
+            "public_id": "north_america/quebec_2026/20260531_092206"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 47.50597777777778,
+        "longitude": -69.80385555555556
+      }
+    },
+    {
+      "id": "cluster-21",
+      "photos": [
+        {
+          "id": "20260531_110212.jpg",
+          "url": "north_america/quebec_2026/20260531_110212",
+          "position": {
+            "latitude": 47.57792777777778,
+            "longitude": -69.83297222222222
+          },
+          "date": "2026-05-31T11:02:12Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364581/north_america/quebec_2026/20260531_110212.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364581/north_america/quebec_2026/20260531_110212.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364581/north_america/quebec_2026/20260531_110212.jpg",
+            "public_id": "north_america/quebec_2026/20260531_110212"
+          }
+        },
+        {
+          "id": "20260531_111008.jpg",
+          "url": "north_america/quebec_2026/20260531_111008",
+          "position": {
+            "latitude": 47.57795277777778,
+            "longitude": -69.8330611111111
+          },
+          "date": "2026-05-31T11:10:08Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364584/north_america/quebec_2026/20260531_111008.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364584/north_america/quebec_2026/20260531_111008.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364584/north_america/quebec_2026/20260531_111008.jpg",
+            "public_id": "north_america/quebec_2026/20260531_111008"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 47.577940277777785,
+        "longitude": -69.83301666666667
+      }
+    },
+    {
+      "id": "cluster-22",
+      "photos": [
+        {
+          "id": "20260531_115011.jpg",
+          "url": "north_america/quebec_2026/20260531_115011",
+          "position": {
+            "latitude": 47.703783333333334,
+            "longitude": -69.69858055555557
+          },
+          "date": "2026-05-31T11:50:11Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364587/north_america/quebec_2026/20260531_115011.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364587/north_america/quebec_2026/20260531_115011.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364587/north_america/quebec_2026/20260531_115011.jpg",
+            "public_id": "north_america/quebec_2026/20260531_115011"
+          }
+        },
+        {
+          "id": "20260531_122704.jpg",
+          "url": "north_america/quebec_2026/20260531_122704",
+          "position": {
+            "latitude": 47.70315555555556,
+            "longitude": -69.69981944444444
+          },
+          "date": "2026-05-31T12:27:04Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364590/north_america/quebec_2026/20260531_122704.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364590/north_america/quebec_2026/20260531_122704.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364590/north_america/quebec_2026/20260531_122704.jpg",
+            "public_id": "north_america/quebec_2026/20260531_122704"
+          }
+        },
+        {
+          "id": "20260531_122917.jpg",
+          "url": "north_america/quebec_2026/20260531_122917",
+          "position": {
+            "latitude": 47.703700000000005,
+            "longitude": -69.70165555555556
+          },
+          "date": "2026-05-31T12:29:17Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364594/north_america/quebec_2026/20260531_122917.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364594/north_america/quebec_2026/20260531_122917.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364594/north_america/quebec_2026/20260531_122917.jpg",
+            "public_id": "north_america/quebec_2026/20260531_122917"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 47.7035462962963,
+        "longitude": -69.70001851851852
+      }
+    },
+    {
+      "id": "cluster-23",
+      "photos": [
+        {
+          "id": "20260531_123419.jpg",
+          "url": "north_america/quebec_2026/20260531_123419",
+          "position": {
+            "latitude": 47.707147222222225,
+            "longitude": -69.69803055555556
+          },
+          "date": "2026-05-31T12:34:19Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364596/north_america/quebec_2026/20260531_123419.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364596/north_america/quebec_2026/20260531_123419.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364596/north_america/quebec_2026/20260531_123419.jpg",
+            "public_id": "north_america/quebec_2026/20260531_123419"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 47.707147222222225,
+        "longitude": -69.69803055555556
+      }
+    },
+    {
+      "id": "cluster-24",
+      "photos": [
+        {
+          "id": "20260531_131940.jpg",
+          "url": "north_america/quebec_2026/20260531_131940",
+          "position": {
+            "latitude": 47.70525833333333,
+            "longitude": -69.68900555555555
+          },
+          "date": "2026-05-31T13:19:41Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364600/north_america/quebec_2026/20260531_131940.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364600/north_america/quebec_2026/20260531_131940.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364600/north_america/quebec_2026/20260531_131940.jpg",
+            "public_id": "north_america/quebec_2026/20260531_131940"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 47.70525833333333,
+        "longitude": -69.68900555555555
+      }
+    },
+    {
+      "id": "cluster-25",
+      "photos": [
+        {
+          "id": "20260531_192332.jpg",
+          "url": "north_america/quebec_2026/20260531_192332",
+          "position": {
+            "latitude": 47.93432222222222,
+            "longitude": -69.50998611111112
+          },
+          "date": "2026-05-31T19:23:32Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364603/north_america/quebec_2026/20260531_192332.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364603/north_america/quebec_2026/20260531_192332.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364603/north_america/quebec_2026/20260531_192332.jpg",
+            "public_id": "north_america/quebec_2026/20260531_192332"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 47.93432222222222,
+        "longitude": -69.50998611111112
+      }
+    },
+    {
+      "id": "cluster-26",
+      "photos": [
+        {
+          "id": "20260531_193048.jpg",
+          "url": "north_america/quebec_2026/20260531_193048",
+          "position": {
+            "latitude": 47.93720555555555,
+            "longitude": -69.51618333333333
+          },
+          "date": "2026-05-31T19:30:49Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364606/north_america/quebec_2026/20260531_193048.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364606/north_america/quebec_2026/20260531_193048.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364606/north_america/quebec_2026/20260531_193048.jpg",
+            "public_id": "north_america/quebec_2026/20260531_193048"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 47.93720555555555,
+        "longitude": -69.51618333333333
+      }
+    },
+    {
+      "id": "cluster-27",
+      "photos": [
+        {
+          "id": "20260531_201858.jpg",
+          "url": "north_america/quebec_2026/20260531_201858",
+          "position": {
+            "latitude": 47.95030555555556,
+            "longitude": -69.46528055555555
+          },
+          "date": "2026-05-31T20:18:59Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364608/north_america/quebec_2026/20260531_201858.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364608/north_america/quebec_2026/20260531_201858.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364608/north_america/quebec_2026/20260531_201858.jpg",
+            "public_id": "north_america/quebec_2026/20260531_201858"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 47.95030555555556,
+        "longitude": -69.46528055555555
+      }
+    },
+    {
+      "id": "cluster-28",
+      "photos": [
+        {
+          "id": "20260531_202420.jpg",
+          "url": "north_america/quebec_2026/20260531_202420",
+          "position": {
+            "latitude": 47.97581111111111,
+            "longitude": -69.45390277777778
+          },
+          "date": "2026-05-31T20:24:21Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364610/north_america/quebec_2026/20260531_202420.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364610/north_america/quebec_2026/20260531_202420.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364610/north_america/quebec_2026/20260531_202420.jpg",
+            "public_id": "north_america/quebec_2026/20260531_202420"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 47.97581111111111,
+        "longitude": -69.45390277777778
+      }
+    },
+    {
+      "id": "cluster-29",
+      "photos": [
+        {
+          "id": "20260601_163520.jpg",
+          "url": "north_america/quebec_2026/20260601_163520",
+          "position": {
+            "latitude": 48.00319722222222,
+            "longitude": -69.41340555555556
+          },
+          "date": "2026-06-01T16:35:21Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364613/north_america/quebec_2026/20260601_163520.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364613/north_america/quebec_2026/20260601_163520.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364613/north_america/quebec_2026/20260601_163520.jpg",
+            "public_id": "north_america/quebec_2026/20260601_163520"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 48.00319722222222,
+        "longitude": -69.41340555555556
+      }
+    },
+    {
+      "id": "cluster-30",
+      "photos": [
+        {
+          "id": "20260601_194517.jpg",
+          "url": "north_america/quebec_2026/20260601_194517",
+          "position": {
+            "latitude": 48.31721944444445,
+            "longitude": -68.86678611111111
+          },
+          "date": "2026-06-01T19:45:18Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364615/north_america/quebec_2026/20260601_194517.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364615/north_america/quebec_2026/20260601_194517.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364615/north_america/quebec_2026/20260601_194517.jpg",
+            "public_id": "north_america/quebec_2026/20260601_194517"
+          }
+        },
+        {
+          "id": "20260601_194951.jpg",
+          "url": "north_america/quebec_2026/20260601_194951",
+          "position": {
+            "latitude": 48.31828055555556,
+            "longitude": -68.86691666666665
+          },
+          "date": "2026-06-01T19:49:52Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364618/north_america/quebec_2026/20260601_194951.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364618/north_america/quebec_2026/20260601_194951.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364618/north_america/quebec_2026/20260601_194951.jpg",
+            "public_id": "north_america/quebec_2026/20260601_194951"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 48.317750000000004,
+        "longitude": -68.86685138888888
+      }
+    },
+    {
+      "id": "cluster-31",
+      "photos": [
+        {
+          "id": "20260601_200229.jpg",
+          "url": "north_america/quebec_2026/20260601_200229",
+          "position": {
+            "latitude": 48.32046666666667,
+            "longitude": -68.85983333333333
+          },
+          "date": "2026-06-01T20:02:29Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364621/north_america/quebec_2026/20260601_200229.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364621/north_america/quebec_2026/20260601_200229.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364621/north_america/quebec_2026/20260601_200229.jpg",
+            "public_id": "north_america/quebec_2026/20260601_200229"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 48.32046666666667,
+        "longitude": -68.85983333333333
+      }
+    },
+    {
+      "id": "cluster-32",
+      "photos": [
+        {
+          "id": "20260602_143222.jpg",
+          "url": "north_america/quebec_2026/20260602_143222",
+          "position": {
+            "latitude": 48.371075,
+            "longitude": -68.70823611111112
+          },
+          "date": "2026-06-02T14:32:22Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364624/north_america/quebec_2026/20260602_143222.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364624/north_america/quebec_2026/20260602_143222.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364624/north_america/quebec_2026/20260602_143222.jpg",
+            "public_id": "north_america/quebec_2026/20260602_143222"
+          }
+        },
+        {
+          "id": "20260602_143317.jpg",
+          "url": "north_america/quebec_2026/20260602_143317",
+          "position": {
+            "latitude": 48.371047222222224,
+            "longitude": -68.70817777777778
+          },
+          "date": "2026-06-02T14:33:17Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364627/north_america/quebec_2026/20260602_143317.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364627/north_america/quebec_2026/20260602_143317.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364627/north_america/quebec_2026/20260602_143317.jpg",
+            "public_id": "north_america/quebec_2026/20260602_143317"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 48.37106111111111,
+        "longitude": -68.70820694444444
+      }
+    },
+    {
+      "id": "cluster-33",
+      "photos": [
+        {
+          "id": "20260603_114059.jpg",
+          "url": "north_america/quebec_2026/20260603_114059",
+          "position": {
+            "latitude": 48.51627777777778,
+            "longitude": -68.47033333333333
+          },
+          "date": "2026-06-03T11:40:59Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364629/north_america/quebec_2026/20260603_114059.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364629/north_america/quebec_2026/20260603_114059.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364629/north_america/quebec_2026/20260603_114059.jpg",
+            "public_id": "north_america/quebec_2026/20260603_114059"
+          }
+        },
+        {
+          "id": "20260603_114102.jpg",
+          "url": "north_america/quebec_2026/20260603_114102",
+          "position": {
+            "latitude": 48.51627777777778,
+            "longitude": -68.47033333333333
+          },
+          "date": "2026-06-03T11:41:02Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364632/north_america/quebec_2026/20260603_114102.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364632/north_america/quebec_2026/20260603_114102.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364632/north_america/quebec_2026/20260603_114102.jpg",
+            "public_id": "north_america/quebec_2026/20260603_114102"
+          }
+        },
+        {
+          "id": "20260603_115910.jpg",
+          "url": "north_america/quebec_2026/20260603_115910",
+          "position": {
+            "latitude": 48.517744444444446,
+            "longitude": -68.46910555555556
+          },
+          "date": "2026-06-03T11:59:10Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364635/north_america/quebec_2026/20260603_115910.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364635/north_america/quebec_2026/20260603_115910.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364635/north_america/quebec_2026/20260603_115910.jpg",
+            "public_id": "north_america/quebec_2026/20260603_115910"
+          }
+        },
+        {
+          "id": "20260603_120819.jpg",
+          "url": "north_america/quebec_2026/20260603_120819",
+          "position": {
+            "latitude": 48.517855555555556,
+            "longitude": -68.46416666666667
+          },
+          "date": "2026-06-03T12:08:19Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364638/north_america/quebec_2026/20260603_120819.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364638/north_america/quebec_2026/20260603_120819.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364638/north_america/quebec_2026/20260603_120819.jpg",
+            "public_id": "north_america/quebec_2026/20260603_120819"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 48.51703888888889,
+        "longitude": -68.46848472222223
+      }
+    },
+    {
+      "id": "cluster-34",
+      "photos": [
+        {
+          "id": "20260603_154039.jpg",
+          "url": "north_america/quebec_2026/20260603_154039",
+          "position": {
+            "latitude": 48.414722222222224,
+            "longitude": -68.5559611111111
+          },
+          "date": "2026-06-03T15:40:39Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364643/north_america/quebec_2026/20260603_154039.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364643/north_america/quebec_2026/20260603_154039.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364643/north_america/quebec_2026/20260603_154039.jpg",
+            "public_id": "north_america/quebec_2026/20260603_154039"
+          }
+        },
+        {
+          "id": "20260603_154047.jpg",
+          "url": "north_america/quebec_2026/20260603_154047",
+          "position": {
+            "latitude": 48.414699999999996,
+            "longitude": -68.55586666666666
+          },
+          "date": "2026-06-03T15:40:48Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364650/north_america/quebec_2026/20260603_154047.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364650/north_america/quebec_2026/20260603_154047.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364650/north_america/quebec_2026/20260603_154047.jpg",
+            "public_id": "north_america/quebec_2026/20260603_154047"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 48.41471111111111,
+        "longitude": -68.55591388888888
+      }
+    },
+    {
+      "id": "cluster-35",
+      "photos": [
+        {
+          "id": "20260603_155941.jpg",
+          "url": "north_america/quebec_2026/20260603_155941",
+          "position": {
+            "latitude": 48.42164444444444,
+            "longitude": -68.55079722222222
+          },
+          "date": "2026-06-03T15:59:41Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364654/north_america/quebec_2026/20260603_155941.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364654/north_america/quebec_2026/20260603_155941.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364654/north_america/quebec_2026/20260603_155941.jpg",
+            "public_id": "north_america/quebec_2026/20260603_155941"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 48.42164444444444,
+        "longitude": -68.55079722222222
+      }
+    },
+    {
+      "id": "cluster-36",
+      "photos": [
+        {
+          "id": "20260605_105029.jpg",
+          "url": "north_america/quebec_2026/20260605_105029",
+          "position": {
+            "latitude": 48.435602777777774,
+            "longitude": -68.3195361111111
+          },
+          "date": "2026-06-05T10:50:30Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364657/north_america/quebec_2026/20260605_105029.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364657/north_america/quebec_2026/20260605_105029.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364657/north_america/quebec_2026/20260605_105029.jpg",
+            "public_id": "north_america/quebec_2026/20260605_105029"
+          }
+        },
+        {
+          "id": "20260605_105633.jpg",
+          "url": "north_america/quebec_2026/20260605_105633",
+          "position": {
+            "latitude": 48.436569444444444,
+            "longitude": -68.31903333333332
+          },
+          "date": "2026-06-05T10:56:33Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364660/north_america/quebec_2026/20260605_105633.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364660/north_america/quebec_2026/20260605_105633.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364660/north_america/quebec_2026/20260605_105633.jpg",
+            "public_id": "north_america/quebec_2026/20260605_105633"
+          }
+        },
+        {
+          "id": "20260605_111750.jpg",
+          "url": "north_america/quebec_2026/20260605_111750",
+          "position": {
+            "latitude": 48.43758055555555,
+            "longitude": -68.31661388888888
+          },
+          "date": "2026-06-05T11:17:50Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364662/north_america/quebec_2026/20260605_111750.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364662/north_america/quebec_2026/20260605_111750.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364662/north_america/quebec_2026/20260605_111750.jpg",
+            "public_id": "north_america/quebec_2026/20260605_111750"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 48.436584259259256,
+        "longitude": -68.31839444444444
+      }
+    },
+    {
+      "id": "cluster-37",
+      "photos": [
+        {
+          "id": "20260606_094827.jpg",
+          "url": "north_america/quebec_2026/20260606_094827",
+          "position": {
+            "latitude": 48.44730277777777,
+            "longitude": -68.4581388888889
+          },
+          "date": "2026-06-06T09:48:28Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364665/north_america/quebec_2026/20260606_094827.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364665/north_america/quebec_2026/20260606_094827.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364665/north_america/quebec_2026/20260606_094827.jpg",
+            "public_id": "north_america/quebec_2026/20260606_094827"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 48.44730277777777,
+        "longitude": -68.4581388888889
+      }
+    },
+    {
+      "id": "cluster-38",
+      "photos": [
+        {
+          "id": "20260607_112441.jpg",
+          "url": "north_america/quebec_2026/20260607_112441",
+          "position": {
+            "latitude": 48.45720555555556,
+            "longitude": -68.48748888888889
+          },
+          "date": "2026-06-07T11:24:42Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364668/north_america/quebec_2026/20260607_112441.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364668/north_america/quebec_2026/20260607_112441.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364668/north_america/quebec_2026/20260607_112441.jpg",
+            "public_id": "north_america/quebec_2026/20260607_112441"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 48.45720555555556,
+        "longitude": -68.48748888888889
+      }
+    },
+    {
+      "id": "cluster-39",
+      "photos": [
+        {
+          "id": "20260621_122057.jpg",
+          "url": "north_america/quebec_2026/20260621_122057",
+          "position": {
+            "latitude": 48.52502222222222,
+            "longitude": -68.10728611111111
+          },
+          "date": "2026-06-21T12:20:58Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364671/north_america/quebec_2026/20260621_122057.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364671/north_america/quebec_2026/20260621_122057.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364671/north_america/quebec_2026/20260621_122057.jpg",
+            "public_id": "north_america/quebec_2026/20260621_122057"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 48.52502222222222,
+        "longitude": -68.10728611111111
+      }
+    },
+    {
+      "id": "cluster-40",
+      "photos": [
+        {
+          "id": "20260621_145723.jpg",
+          "url": "north_america/quebec_2026/20260621_145723",
+          "position": {
+            "latitude": 48.518025,
+            "longitude": -68.15161944444445
+          },
+          "date": "2026-06-21T14:57:23Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364675/north_america/quebec_2026/20260621_145723.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364675/north_america/quebec_2026/20260621_145723.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364675/north_america/quebec_2026/20260621_145723.jpg",
+            "public_id": "north_america/quebec_2026/20260621_145723"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 48.518025,
+        "longitude": -68.15161944444445
+      }
+    },
+    {
+      "id": "cluster-41",
+      "photos": [
+        {
+          "id": "20260626_102050.jpg",
+          "url": "north_america/quebec_2026/20260626_102050",
+          "position": {
+            "latitude": 48.438424999999995,
+            "longitude": -68.31768333333333
+          },
+          "date": "2026-06-26T10:20:50Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364679/north_america/quebec_2026/20260626_102050.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364679/north_america/quebec_2026/20260626_102050.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364679/north_america/quebec_2026/20260626_102050.jpg",
+            "public_id": "north_america/quebec_2026/20260626_102050"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 48.438424999999995,
+        "longitude": -68.31768333333333
+      }
+    },
+    {
+      "id": "cluster-42",
+      "photos": [
+        {
+          "id": "20260627_103321.jpg",
+          "url": "north_america/quebec_2026/20260627_103321",
+          "position": {
+            "latitude": 48.52498611111111,
+            "longitude": -68.10751111111111
+          },
+          "date": "2026-06-27T10:33:21Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364682/north_america/quebec_2026/20260627_103321.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364682/north_america/quebec_2026/20260627_103321.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364682/north_america/quebec_2026/20260627_103321.jpg",
+            "public_id": "north_america/quebec_2026/20260627_103321"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 48.52498611111111,
+        "longitude": -68.10751111111111
+      }
+    },
+    {
+      "id": "cluster-43",
+      "photos": [
+        {
+          "id": "20260709_192843.jpg",
+          "url": "north_america/quebec_2026/20260709_192843",
+          "position": {
+            "latitude": 48.44269166666666,
+            "longitude": -68.58018888888888
+          },
+          "date": "2026-07-09T19:28:43Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364688/north_america/quebec_2026/20260709_192843.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364688/north_america/quebec_2026/20260709_192843.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364688/north_america/quebec_2026/20260709_192843.jpg",
+            "public_id": "north_america/quebec_2026/20260709_192843"
+          }
+        },
+        {
+          "id": "20260709_192851.jpg",
+          "url": "north_america/quebec_2026/20260709_192851",
+          "position": {
+            "latitude": 48.44269166666666,
+            "longitude": -68.58018888888888
+          },
+          "date": "2026-07-09T19:28:51Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364691/north_america/quebec_2026/20260709_192851.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364691/north_america/quebec_2026/20260709_192851.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364691/north_america/quebec_2026/20260709_192851.jpg",
+            "public_id": "north_america/quebec_2026/20260709_192851"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 48.44269166666666,
+        "longitude": -68.58018888888888
+      }
+    },
+    {
+      "id": "cluster-44",
+      "photos": [
+        {
+          "id": "20260720_175958.jpg",
+          "url": "north_america/quebec_2026/20260720_175958",
+          "position": {
+            "latitude": 48.4473,
+            "longitude": -68.45811944444445
+          },
+          "date": "2026-07-20T17:59:59Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364694/north_america/quebec_2026/20260720_175958.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364694/north_america/quebec_2026/20260720_175958.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364694/north_america/quebec_2026/20260720_175958.jpg",
+            "public_id": "north_america/quebec_2026/20260720_175958"
+          }
+        },
+        {
+          "id": "20260720_180831.jpg",
+          "url": "north_america/quebec_2026/20260720_180831",
+          "position": {
+            "latitude": 48.45026388888889,
+            "longitude": -68.45723055555555
+          },
+          "date": "2026-07-20T18:08:32Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364696/north_america/quebec_2026/20260720_180831.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364696/north_america/quebec_2026/20260720_180831.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364696/north_america/quebec_2026/20260720_180831.jpg",
+            "public_id": "north_america/quebec_2026/20260720_180831"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 48.44878194444445,
+        "longitude": -68.457675
+      }
+    },
+    {
+      "id": "cluster-45",
+      "photos": [
+        {
+          "id": "20260725_160316.jpg",
+          "url": "north_america/quebec_2026/20260725_160316",
+          "position": {
+            "latitude": 48.45052777777778,
+            "longitude": -68.31383055555555
+          },
+          "date": "2026-07-25T16:03:16Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364699/north_america/quebec_2026/20260725_160316.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364699/north_america/quebec_2026/20260725_160316.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364699/north_america/quebec_2026/20260725_160316.jpg",
+            "public_id": "north_america/quebec_2026/20260725_160316"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 48.45052777777778,
+        "longitude": -68.31383055555555
+      }
+    },
+    {
+      "id": "cluster-46",
+      "photos": [
+        {
+          "id": "20260729_194943.jpg",
+          "url": "north_america/quebec_2026/20260729_194943",
+          "position": {
+            "latitude": 48.44367777777777,
+            "longitude": -68.30791388888889
+          },
+          "date": "2026-07-29T19:49:43Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364703/north_america/quebec_2026/20260729_194943.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364703/north_america/quebec_2026/20260729_194943.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364703/north_america/quebec_2026/20260729_194943.jpg",
+            "public_id": "north_america/quebec_2026/20260729_194943"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 48.44367777777777,
+        "longitude": -68.30791388888889
+      }
+    },
+    {
+      "id": "cluster-47",
+      "photos": [
+        {
+          "id": "20260730_200948.jpg",
+          "url": "north_america/quebec_2026/20260730_200948",
+          "position": {
+            "latitude": 48.44731944444444,
+            "longitude": -68.45815555555556
+          },
+          "date": "2026-07-30T20:09:48Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364706/north_america/quebec_2026/20260730_200948.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364706/north_america/quebec_2026/20260730_200948.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364706/north_america/quebec_2026/20260730_200948.jpg",
+            "public_id": "north_america/quebec_2026/20260730_200948"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 48.44731944444444,
+        "longitude": -68.45815555555556
+      }
+    },
+    {
+      "id": "cluster-48",
+      "photos": [
+        {
+          "id": "20260804_161349.jpg",
+          "url": "north_america/quebec_2026/20260804_161349",
+          "position": {
+            "latitude": 49.39341388888889,
+            "longitude": -67.30611944444445
+          },
+          "date": "2026-08-04T16:13:49Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364708/north_america/quebec_2026/20260804_161349.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364708/north_america/quebec_2026/20260804_161349.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364708/north_america/quebec_2026/20260804_161349.jpg",
+            "public_id": "north_america/quebec_2026/20260804_161349"
+          }
+        },
+        {
+          "id": "20260804_161508.jpg",
+          "url": "north_america/quebec_2026/20260804_161508",
+          "position": {
+            "latitude": 49.39313888888889,
+            "longitude": -67.3065111111111
+          },
+          "date": "2026-08-04T16:15:08Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364711/north_america/quebec_2026/20260804_161508.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364711/north_america/quebec_2026/20260804_161508.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364711/north_america/quebec_2026/20260804_161508.jpg",
+            "public_id": "north_america/quebec_2026/20260804_161508"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 49.39327638888889,
+        "longitude": -67.30631527777777
+      }
+    },
+    {
+      "id": "cluster-49",
+      "photos": [
+        {
+          "id": "20260804_195633.jpg",
+          "url": "north_america/quebec_2026/20260804_195633",
+          "position": {
+            "latitude": 49.61990277777778,
+            "longitude": -67.21238611111112
+          },
+          "date": "2026-08-04T19:56:33Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364714/north_america/quebec_2026/20260804_195633.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364714/north_america/quebec_2026/20260804_195633.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364714/north_america/quebec_2026/20260804_195633.jpg",
+            "public_id": "north_america/quebec_2026/20260804_195633"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 49.61990277777778,
+        "longitude": -67.21238611111112
+      }
+    },
+    {
+      "id": "cluster-50",
+      "photos": [
+        {
+          "id": "20260805_173827.jpg",
+          "url": "north_america/quebec_2026/20260805_173827",
+          "position": {
+            "latitude": 50.09941666666667,
+            "longitude": -66.70833611111111
+          },
+          "date": "2026-08-05T17:38:27Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364717/north_america/quebec_2026/20260805_173827.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364717/north_america/quebec_2026/20260805_173827.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364717/north_america/quebec_2026/20260805_173827.jpg",
+            "public_id": "north_america/quebec_2026/20260805_173827"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 50.09941666666667,
+        "longitude": -66.70833611111111
+      }
+    },
+    {
+      "id": "cluster-51",
+      "photos": [
+        {
+          "id": "20260806_181038.jpg",
+          "url": "north_america/quebec_2026/20260806_181038",
+          "position": {
+            "latitude": 50.07358055555556,
+            "longitude": -66.72529444444444
+          },
+          "date": "2026-08-06T18:10:38Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364720/north_america/quebec_2026/20260806_181038.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364720/north_america/quebec_2026/20260806_181038.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364720/north_america/quebec_2026/20260806_181038.jpg",
+            "public_id": "north_america/quebec_2026/20260806_181038"
+          }
+        },
+        {
+          "id": "20260806_181138.jpg",
+          "url": "north_america/quebec_2026/20260806_181138",
+          "position": {
+            "latitude": 50.07355277777778,
+            "longitude": -66.7250638888889
+          },
+          "date": "2026-08-06T18:11:38Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364723/north_america/quebec_2026/20260806_181138.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364723/north_america/quebec_2026/20260806_181138.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364723/north_america/quebec_2026/20260806_181138.jpg",
+            "public_id": "north_america/quebec_2026/20260806_181138"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 50.073566666666665,
+        "longitude": -66.72517916666666
+      }
+    },
+    {
+      "id": "cluster-52",
+      "photos": [
+        {
+          "id": "20260811_114542.jpg",
+          "url": "north_america/quebec_2026/20260811_114542",
+          "position": {
+            "latitude": 50.28627777777778,
+            "longitude": -65.50441666666667
+          },
+          "date": "2026-08-11T11:45:42Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364727/north_america/quebec_2026/20260811_114542.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364727/north_america/quebec_2026/20260811_114542.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364727/north_america/quebec_2026/20260811_114542.jpg",
+            "public_id": "north_america/quebec_2026/20260811_114542"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 50.28627777777778,
+        "longitude": -65.50441666666667
+      }
+    },
+    {
+      "id": "cluster-53",
+      "photos": [
+        {
+          "id": "20260812_173332.jpg",
+          "url": "north_america/quebec_2026/20260812_173332",
+          "position": {
+            "latitude": 50.301405555555554,
+            "longitude": -63.82407222222223
+          },
+          "date": "2026-08-12T17:33:32Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364730/north_america/quebec_2026/20260812_173332.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364730/north_america/quebec_2026/20260812_173332.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364730/north_america/quebec_2026/20260812_173332.jpg",
+            "public_id": "north_america/quebec_2026/20260812_173332"
+          }
+        },
+        {
+          "id": "20260813_153226.jpg",
+          "url": "north_america/quebec_2026/20260813_153226",
+          "position": {
+            "latitude": 50.30128611111111,
+            "longitude": -63.828069444444445
+          },
+          "date": "2026-08-13T15:32:26Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364733/north_america/quebec_2026/20260813_153226.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364733/north_america/quebec_2026/20260813_153226.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364733/north_america/quebec_2026/20260813_153226.jpg",
+            "public_id": "north_america/quebec_2026/20260813_153226"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 50.30134583333333,
+        "longitude": -63.82607083333333
+      }
+    },
+    {
+      "id": "cluster-54",
+      "photos": [
+        {
+          "id": "20260813_184419.jpg",
+          "url": "north_america/quebec_2026/20260813_184419",
+          "position": {
+            "latitude": 50.211913888888894,
+            "longitude": -63.45682222222222
+          },
+          "date": "2026-08-13T18:44:19Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364737/north_america/quebec_2026/20260813_184419.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364737/north_america/quebec_2026/20260813_184419.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364737/north_america/quebec_2026/20260813_184419.jpg",
+            "public_id": "north_america/quebec_2026/20260813_184419"
+          }
+        },
+        {
+          "id": "20260813_184552.jpg",
+          "url": "north_america/quebec_2026/20260813_184552",
+          "position": {
+            "latitude": 50.212811111111115,
+            "longitude": -63.456988888888894
+          },
+          "date": "2026-08-13T18:45:53Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364740/north_america/quebec_2026/20260813_184552.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364740/north_america/quebec_2026/20260813_184552.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364740/north_america/quebec_2026/20260813_184552.jpg",
+            "public_id": "north_america/quebec_2026/20260813_184552"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 50.212362500000005,
+        "longitude": -63.45690555555556
+      }
+    },
+    {
+      "id": "cluster-55",
+      "photos": [
+        {
+          "id": "20260813_191022.jpg",
+          "url": "north_america/quebec_2026/20260813_191022",
+          "position": {
+            "latitude": 50.206430555555556,
+            "longitude": -63.451286111111116
+          },
+          "date": "2026-08-13T19:10:22Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364742/north_america/quebec_2026/20260813_191022.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364742/north_america/quebec_2026/20260813_191022.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364742/north_america/quebec_2026/20260813_191022.jpg",
+            "public_id": "north_america/quebec_2026/20260813_191022"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 50.206430555555556,
+        "longitude": -63.451286111111116
+      }
+    },
+    {
+      "id": "cluster-56",
+      "photos": [
+        {
+          "id": "20260814_172719.jpg",
+          "url": "north_america/quebec_2026/20260814_172719",
+          "position": {
+            "latitude": 50.301775,
+            "longitude": -65.334425
+          },
+          "date": "2026-08-14T17:27:19Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364745/north_america/quebec_2026/20260814_172719.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364745/north_america/quebec_2026/20260814_172719.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364745/north_america/quebec_2026/20260814_172719.jpg",
+            "public_id": "north_america/quebec_2026/20260814_172719"
+          }
+        },
+        {
+          "id": "20260814_172827.jpg",
+          "url": "north_america/quebec_2026/20260814_172827",
+          "position": {
+            "latitude": 50.30187222222222,
+            "longitude": -65.33416944444444
+          },
+          "date": "2026-08-14T17:28:28Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364749/north_america/quebec_2026/20260814_172827.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364749/north_america/quebec_2026/20260814_172827.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364749/north_america/quebec_2026/20260814_172827.jpg",
+            "public_id": "north_america/quebec_2026/20260814_172827"
+          }
+        },
+        {
+          "id": "20260814_172852.jpg",
+          "url": "north_america/quebec_2026/20260814_172852",
+          "position": {
+            "latitude": 50.30182222222222,
+            "longitude": -65.3344361111111
+          },
+          "date": "2026-08-14T17:28:52Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364752/north_america/quebec_2026/20260814_172852.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364752/north_america/quebec_2026/20260814_172852.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364752/north_america/quebec_2026/20260814_172852.jpg",
+            "public_id": "north_america/quebec_2026/20260814_172852"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 50.301823148148145,
+        "longitude": -65.33434351851851
+      }
+    },
+    {
+      "id": "cluster-57",
+      "photos": [
+        {
+          "id": "20260817_132254.jpg",
+          "url": "north_america/quebec_2026/20260817_132254",
+          "position": {
+            "latitude": 48.43894444444444,
+            "longitude": -68.58638611111111
+          },
+          "date": "2026-08-17T13:22:54Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364755/north_america/quebec_2026/20260817_132254.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364755/north_america/quebec_2026/20260817_132254.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364755/north_america/quebec_2026/20260817_132254.jpg",
+            "public_id": "north_america/quebec_2026/20260817_132254"
+          }
+        },
+        {
+          "id": "20260817_133938.jpg",
+          "url": "north_america/quebec_2026/20260817_133938",
+          "position": {
+            "latitude": 48.43943055555555,
+            "longitude": -68.58509166666666
+          },
+          "date": "2026-08-17T13:39:38Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364758/north_america/quebec_2026/20260817_133938.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364758/north_america/quebec_2026/20260817_133938.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364758/north_america/quebec_2026/20260817_133938.jpg",
+            "public_id": "north_america/quebec_2026/20260817_133938"
+          }
+        },
+        {
+          "id": "20260817_134451.jpg",
+          "url": "north_america/quebec_2026/20260817_134451",
+          "position": {
+            "latitude": 48.43900555555555,
+            "longitude": -68.5821111111111
+          },
+          "date": "2026-08-17T13:44:51Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364761/north_america/quebec_2026/20260817_134451.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364761/north_america/quebec_2026/20260817_134451.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364761/north_america/quebec_2026/20260817_134451.jpg",
+            "public_id": "north_america/quebec_2026/20260817_134451"
+          }
+        },
+        {
+          "id": "20260821_103241.jpg",
+          "url": "north_america/quebec_2026/20260821_103241",
+          "position": {
+            "latitude": 48.442563888888884,
+            "longitude": -68.58129722222222
+          },
+          "date": "2026-08-21T10:32:41Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364763/north_america/quebec_2026/20260821_103241.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364763/north_america/quebec_2026/20260821_103241.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364763/north_america/quebec_2026/20260821_103241.jpg",
+            "public_id": "north_america/quebec_2026/20260821_103241"
+          }
+        },
+        {
+          "id": "20260821_173239.jpg",
+          "url": "north_america/quebec_2026/20260821_173239",
+          "position": {
+            "latitude": 48.44238055555555,
+            "longitude": -68.58196388888888
+          },
+          "date": "2026-08-21T17:32:39Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364766/north_america/quebec_2026/20260821_173239.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364766/north_america/quebec_2026/20260821_173239.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364766/north_america/quebec_2026/20260821_173239.jpg",
+            "public_id": "north_america/quebec_2026/20260821_173239"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 48.440464999999996,
+        "longitude": -68.58337
+      }
+    },
+    {
+      "id": "cluster-58",
+      "photos": [
+        {
+          "id": "20260826_172825.jpg",
+          "url": "north_america/quebec_2026/20260826_172825",
+          "position": {
+            "latitude": 45.55531388888889,
+            "longitude": -62.347100000000005
+          },
+          "date": "2026-08-26T17:28:25Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364769/north_america/quebec_2026/20260826_172825.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364769/north_america/quebec_2026/20260826_172825.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364769/north_america/quebec_2026/20260826_172825.jpg",
+            "public_id": "north_america/quebec_2026/20260826_172825"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 45.55531388888889,
+        "longitude": -62.347100000000005
+      }
+    },
+    {
+      "id": "cluster-59",
+      "photos": [
+        {
+          "id": "20260827_141414.jpg",
+          "url": "north_america/quebec_2026/20260827_141414",
+          "position": {
+            "latitude": 45.64546111111111,
+            "longitude": -61.657444444444444
+          },
+          "date": "2026-08-27T14:14:14Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364773/north_america/quebec_2026/20260827_141414.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364773/north_america/quebec_2026/20260827_141414.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364773/north_america/quebec_2026/20260827_141414.jpg",
+            "public_id": "north_america/quebec_2026/20260827_141414"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 45.64546111111111,
+        "longitude": -61.657444444444444
+      }
+    }
+  ],
+  "independentPhotos": [],
+  "description": ""
+}

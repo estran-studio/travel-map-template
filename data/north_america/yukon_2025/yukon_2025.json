@@ -1,0 +1,3662 @@
+{
+  "id": "yukon_2025",
+  "name": "Yukon & North",
+  "route": {
+    "start": {
+      "latitude": 59.99882777777778,
+      "longitude": -129.05349722222223
+    },
+    "end": {
+      "latitude": 60.720822222222225,
+      "longitude": -135.0557138888889
+    },
+    "path": [
+      {
+        "latitude": 59.99882777777778,
+        "longitude": -129.05349722222223,
+        "date": "2025-08-30T13:04:07Z"
+      },
+      {
+        "latitude": 60.06148611111111,
+        "longitude": -128.6996777777778,
+        "date": "2025-08-30T13:52:54Z"
+      },
+      {
+        "latitude": 60.05804722222222,
+        "longitude": -128.68057222222222,
+        "date": "2025-08-30T14:03:06Z"
+      },
+      {
+        "latitude": 60.05097222222222,
+        "longitude": -128.90664722222223,
+        "date": "2025-08-30T14:35:11Z"
+      },
+      {
+        "latitude": 60.13937222222222,
+        "longitude": -130.22598888888888,
+        "date": "2025-08-31T17:55:56Z"
+      },
+      {
+        "latitude": 48.69981666666666,
+        "longitude": -67.38033888888889,
+        "date": "2025-09-01T14:29:15Z"
+      },
+      {
+        "latitude": 60.84035,
+        "longitude": -135.1857138888889,
+        "date": "2025-09-03T10:34:50Z"
+      },
+      {
+        "latitude": 60.829463888888895,
+        "longitude": -135.1805111111111,
+        "date": "2025-09-03T16:37:49Z"
+      },
+      {
+        "latitude": 60.822747222222226,
+        "longitude": -135.18483055555555,
+        "date": "2025-09-03T17:18:13Z"
+      },
+      {
+        "latitude": 60.268325,
+        "longitude": -134.74595,
+        "date": "2025-09-04T11:46:59Z"
+      },
+      {
+        "latitude": 60.2262,
+        "longitude": -134.71371944444442,
+        "date": "2025-09-04T14:40:53Z"
+      },
+      {
+        "latitude": 60.113344444444444,
+        "longitude": -134.5575166666667,
+        "date": "2025-09-04T16:34:19Z"
+      },
+      {
+        "latitude": 60.06116944444444,
+        "longitude": -134.57600555555555,
+        "date": "2025-09-05T14:05:40Z"
+      },
+      {
+        "latitude": 60.06033055555555,
+        "longitude": -134.5829222222222,
+        "date": "2025-09-05T14:12:59Z"
+      },
+      {
+        "latitude": 60.05779444444444,
+        "longitude": -134.59056111111113,
+        "date": "2025-09-05T14:24:12Z"
+      },
+      {
+        "latitude": 60.058680555555554,
+        "longitude": -134.60187777777776,
+        "date": "2025-09-05T14:52:38Z"
+      },
+      {
+        "latitude": 60.05693888888889,
+        "longitude": -134.6143888888889,
+        "date": "2025-09-05T15:40:14Z"
+      },
+      {
+        "latitude": 60.058452777777774,
+        "longitude": -134.59674444444445,
+        "date": "2025-09-05T17:06:01Z"
+      },
+      {
+        "latitude": 59.726330555555556,
+        "longitude": -134.99760555555554,
+        "date": "2025-09-05T23:30:51Z"
+      },
+      {
+        "latitude": 59.63393055555556,
+        "longitude": -135.16324722222222,
+        "date": "2025-09-06T11:35:49Z"
+      },
+      {
+        "latitude": 59.63557222222222,
+        "longitude": -135.17938055555555,
+        "date": "2025-09-06T12:07:00Z"
+      },
+      {
+        "latitude": 59.63400277777778,
+        "longitude": -135.16495,
+        "date": "2025-09-06T12:37:39Z"
+      },
+      {
+        "latitude": 59.650644444444445,
+        "longitude": -135.13156666666669,
+        "date": "2025-09-06T16:27:12Z"
+      },
+      {
+        "latitude": 59.668394444444445,
+        "longitude": -135.11175,
+        "date": "2025-09-06T16:30:36Z"
+      },
+      {
+        "latitude": 59.71789444444445,
+        "longitude": -135.04345833333332,
+        "date": "2025-09-06T16:39:21Z"
+      },
+      {
+        "latitude": 60.71958888888889,
+        "longitude": -135.05265,
+        "date": "2025-09-07T13:22:52Z"
+      },
+      {
+        "latitude": 60.851866666666666,
+        "longitude": -135.87345000000002,
+        "date": "2025-09-07T15:44:35Z"
+      },
+      {
+        "latitude": 61.99202777777778,
+        "longitude": -136.2117888888889,
+        "date": "2025-09-10T20:24:15Z"
+      },
+      {
+        "latitude": 62.41600277777778,
+        "longitude": -136.59850555555556,
+        "date": "2025-09-11T16:00:40Z"
+      },
+      {
+        "latitude": 64.06161666666667,
+        "longitude": -139.43683611111112,
+        "date": "2025-09-13T13:32:15Z"
+      },
+      {
+        "latitude": 64.33863888888888,
+        "longitude": -138.43940555555557,
+        "date": "2025-09-13T15:54:03Z"
+      },
+      {
+        "latitude": 64.35478611111111,
+        "longitude": -138.4092777777778,
+        "date": "2025-09-13T15:59:28Z"
+      },
+      {
+        "latitude": 64.47154444444445,
+        "longitude": -138.20039166666666,
+        "date": "2025-09-13T16:23:59Z"
+      },
+      {
+        "latitude": 64.52281666666667,
+        "longitude": -138.24591666666666,
+        "date": "2025-09-13T16:34:35Z"
+      },
+      {
+        "latitude": 64.6188611111111,
+        "longitude": -138.36675277777778,
+        "date": "2025-09-13T17:03:42Z"
+      },
+      {
+        "latitude": 65.01026944444445,
+        "longitude": -138.19965,
+        "date": "2025-09-14T14:41:05Z"
+      },
+      {
+        "latitude": 66.37146388888888,
+        "longitude": -136.7206888888889,
+        "date": "2025-09-15T13:35:05Z"
+      },
+      {
+        "latitude": 66.37472777777778,
+        "longitude": -136.71170277777776,
+        "date": "2025-09-15T13:47:18Z"
+      },
+      {
+        "latitude": 66.55297222222222,
+        "longitude": -136.33920277777779,
+        "date": "2025-09-15T14:35:49Z"
+      },
+      {
+        "latitude": 66.54987222222222,
+        "longitude": -136.3427861111111,
+        "date": "2025-09-15T20:10:31Z"
+      },
+      {
+        "latitude": 66.94092222222223,
+        "longitude": -136.25327777777778,
+        "date": "2025-09-16T15:18:19Z"
+      },
+      {
+        "latitude": 66.9490888888889,
+        "longitude": -136.234425,
+        "date": "2025-09-16T15:21:52Z"
+      },
+      {
+        "latitude": 67.00156111111112,
+        "longitude": -136.2151111111111,
+        "date": "2025-09-16T15:39:08Z"
+      },
+      {
+        "latitude": 67.02003333333333,
+        "longitude": -136.2019861111111,
+        "date": "2025-09-16T15:43:34Z"
+      },
+      {
+        "latitude": 67.17182222222223,
+        "longitude": -135.88204722222224,
+        "date": "2025-09-16T16:07:40Z"
+      },
+      {
+        "latitude": 67.33701944444444,
+        "longitude": -134.88201111111113,
+        "date": "2025-09-16T16:56:13Z"
+      },
+      {
+        "latitude": 67.44737777777779,
+        "longitude": -133.76010555555555,
+        "date": "2025-09-16T18:01:45Z"
+      },
+      {
+        "latitude": 69.35348333333333,
+        "longitude": -133.04073333333332,
+        "date": "2025-09-17T11:16:36Z"
+      },
+      {
+        "latitude": 69.45594722222222,
+        "longitude": -133.03556388888887,
+        "date": "2025-09-17T17:43:33Z"
+      },
+      {
+        "latitude": 69.4283638888889,
+        "longitude": -132.99615555555553,
+        "date": "2025-09-17T18:23:21Z"
+      },
+      {
+        "latitude": 69.42031666666666,
+        "longitude": -133.02173611111112,
+        "date": "2025-09-17T18:33:57Z"
+      },
+      {
+        "latitude": 69.41188611111112,
+        "longitude": -133.03485833333332,
+        "date": "2025-09-17T19:22:07Z"
+      },
+      {
+        "latitude": 69.40581111111112,
+        "longitude": -133.03050555555558,
+        "date": "2025-09-18T12:09:20Z"
+      },
+      {
+        "latitude": 69.04605555555555,
+        "longitude": -133.18939444444445,
+        "date": "2025-09-18T13:06:09Z"
+      },
+      {
+        "latitude": 69.042725,
+        "longitude": -133.19985555555556,
+        "date": "2025-09-18T13:07:38Z"
+      },
+      {
+        "latitude": 68.35883888888888,
+        "longitude": -133.72152222222223,
+        "date": "2025-09-18T17:33:44Z"
+      },
+      {
+        "latitude": 68.23808611111112,
+        "longitude": -133.30018055555556,
+        "date": "2025-09-18T18:44:02Z"
+      },
+      {
+        "latitude": 67.754675,
+        "longitude": -133.8549361111111,
+        "date": "2025-09-18T19:53:56Z"
+      },
+      {
+        "latitude": 67.45653888888889,
+        "longitude": -133.75727777777777,
+        "date": "2025-09-19T20:27:54Z"
+      },
+      {
+        "latitude": 67.44696388888889,
+        "longitude": -133.7604611111111,
+        "date": "2025-09-19T21:00:57Z"
+      },
+      {
+        "latitude": 67.17673611111111,
+        "longitude": -135.83720555555556,
+        "date": "2025-09-20T13:10:56Z"
+      },
+      {
+        "latitude": 67.10739444444444,
+        "longitude": -136.08955555555556,
+        "date": "2025-09-20T13:31:44Z"
+      },
+      {
+        "latitude": 67.06901388888889,
+        "longitude": -136.16971944444444,
+        "date": "2025-09-20T13:40:03Z"
+      },
+      {
+        "latitude": 66.82237777777777,
+        "longitude": -136.3463027777778,
+        "date": "2025-09-20T14:10:05Z"
+      },
+      {
+        "latitude": 66.54952777777778,
+        "longitude": -136.34169444444444,
+        "date": "2025-09-21T13:38:51Z"
+      },
+      {
+        "latitude": 66.44095833333334,
+        "longitude": -136.71152222222221,
+        "date": "2025-09-21T14:51:58Z"
+      },
+      {
+        "latitude": 65.33914444444444,
+        "longitude": -138.24994999999998,
+        "date": "2025-09-22T11:54:24Z"
+      },
+      {
+        "latitude": 65.04761388888889,
+        "longitude": -138.1435,
+        "date": "2025-09-22T12:29:45Z"
+      },
+      {
+        "latitude": 64.89975277777778,
+        "longitude": -138.27734166666667,
+        "date": "2025-09-22T12:44:36Z"
+      },
+      {
+        "latitude": 64.6683888888889,
+        "longitude": -138.39297777777776,
+        "date": "2025-09-22T13:06:47Z"
+      },
+      {
+        "latitude": 64.65306111111111,
+        "longitude": -138.38535,
+        "date": "2025-09-22T13:09:10Z"
+      },
+      {
+        "latitude": 64.50743055555556,
+        "longitude": -138.21912777777777,
+        "date": "2025-09-22T13:29:49Z"
+      },
+      {
+        "latitude": 64.480125,
+        "longitude": -138.19734722222222,
+        "date": "2025-09-22T13:32:49Z"
+      },
+      {
+        "latitude": 63.99041388888889,
+        "longitude": -138.74838888888888,
+        "date": "2025-09-22T14:58:37Z"
+      },
+      {
+        "latitude": 62.72284722222222,
+        "longitude": -136.69786666666667,
+        "date": "2025-09-26T12:18:10Z"
+      },
+      {
+        "latitude": 60.659774999999996,
+        "longitude": -135.10265277777776,
+        "date": "2025-09-28T14:00:49Z"
+      },
+      {
+        "latitude": 60.99133055555556,
+        "longitude": -135.1949972222222,
+        "date": "2025-09-30T13:27:16Z"
+      },
+      {
+        "latitude": 60.65228611111111,
+        "longitude": -135.09976111111112,
+        "date": "2025-10-01T13:29:03Z"
+      },
+      {
+        "latitude": 60.802902777777774,
+        "longitude": -136.56444166666668,
+        "date": "2025-10-02T18:03:07Z"
+      },
+      {
+        "latitude": 60.821672222222226,
+        "longitude": -137.39093055555554,
+        "date": "2025-10-04T14:43:19Z"
+      },
+      {
+        "latitude": 60.678241666666665,
+        "longitude": -137.3578638888889,
+        "date": "2025-10-04T15:54:47Z"
+      },
+      {
+        "latitude": 60.75292777777778,
+        "longitude": -137.51126666666667,
+        "date": "2025-10-05T20:38:09Z"
+      },
+      {
+        "latitude": 60.80284444444444,
+        "longitude": -136.56182777777778,
+        "date": "2025-10-06T12:09:59Z"
+      },
+      {
+        "latitude": 60.720822222222225,
+        "longitude": -135.0557138888889,
+        "date": "2025-10-09T22:51:16Z"
+      }
+    ]
+  },
+  "startDate": "2025-08-30T13:04:07Z",
+  "endDate": "2025-10-09T22:51:16Z",
+  "photoClusters": [
+    {
+      "id": "cluster-1",
+      "photos": [
+        {
+          "id": "20250830_130406.jpg",
+          "url": "north_america/yukon_2025/20250830_130406",
+          "position": {
+            "latitude": 59.99882777777778,
+            "longitude": -129.05349722222223
+          },
+          "date": "2025-08-30T13:04:07Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363598/north_america/yukon_2025/20250830_130406.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363598/north_america/yukon_2025/20250830_130406.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363598/north_america/yukon_2025/20250830_130406.jpg",
+            "public_id": "north_america/yukon_2025/20250830_130406"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 59.99882777777778,
+        "longitude": -129.05349722222223
+      }
+    },
+    {
+      "id": "cluster-2",
+      "photos": [
+        {
+          "id": "20250830_135254.jpg",
+          "url": "north_america/yukon_2025/20250830_135254",
+          "position": {
+            "latitude": 60.06148611111111,
+            "longitude": -128.6996777777778
+          },
+          "date": "2025-08-30T13:52:54Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363601/north_america/yukon_2025/20250830_135254.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363601/north_america/yukon_2025/20250830_135254.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363601/north_america/yukon_2025/20250830_135254.jpg",
+            "public_id": "north_america/yukon_2025/20250830_135254"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 60.06148611111111,
+        "longitude": -128.6996777777778
+      }
+    },
+    {
+      "id": "cluster-3",
+      "photos": [
+        {
+          "id": "20250830_140306.jpg",
+          "url": "north_america/yukon_2025/20250830_140306",
+          "position": {
+            "latitude": 60.05804722222222,
+            "longitude": -128.68057222222222
+          },
+          "date": "2025-08-30T14:03:06Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363604/north_america/yukon_2025/20250830_140306.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363604/north_america/yukon_2025/20250830_140306.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363604/north_america/yukon_2025/20250830_140306.jpg",
+            "public_id": "north_america/yukon_2025/20250830_140306"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 60.05804722222222,
+        "longitude": -128.68057222222222
+      }
+    },
+    {
+      "id": "cluster-4",
+      "photos": [
+        {
+          "id": "20250830_143511.jpg",
+          "url": "north_america/yukon_2025/20250830_143511",
+          "position": {
+            "latitude": 60.05097222222222,
+            "longitude": -128.90664722222223
+          },
+          "date": "2025-08-30T14:35:11Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363607/north_america/yukon_2025/20250830_143511.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363607/north_america/yukon_2025/20250830_143511.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363607/north_america/yukon_2025/20250830_143511.jpg",
+            "public_id": "north_america/yukon_2025/20250830_143511"
+          }
+        },
+        {
+          "id": "20250830_143737.jpg",
+          "url": "north_america/yukon_2025/20250830_143737",
+          "position": {
+            "latitude": 60.051125,
+            "longitude": -128.90742777777777
+          },
+          "date": "2025-08-30T14:37:37Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363610/north_america/yukon_2025/20250830_143737.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363610/north_america/yukon_2025/20250830_143737.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363610/north_america/yukon_2025/20250830_143737.jpg",
+            "public_id": "north_america/yukon_2025/20250830_143737"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 60.05104861111111,
+        "longitude": -128.9070375
+      }
+    },
+    {
+      "id": "cluster-5",
+      "photos": [
+        {
+          "id": "20250831_175556.jpg",
+          "url": "north_america/yukon_2025/20250831_175556",
+          "position": {
+            "latitude": 60.13937222222222,
+            "longitude": -130.22598888888888
+          },
+          "date": "2025-08-31T17:55:56Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363614/north_america/yukon_2025/20250831_175556.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363614/north_america/yukon_2025/20250831_175556.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363614/north_america/yukon_2025/20250831_175556.jpg",
+            "public_id": "north_america/yukon_2025/20250831_175556"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 60.13937222222222,
+        "longitude": -130.22598888888888
+      }
+    },
+    {
+      "id": "cluster-6",
+      "photos": [
+        {
+          "id": "20250901_142914.jpg",
+          "url": "north_america/yukon_2025/20250901_142914",
+          "position": {
+            "latitude": 48.69981666666666,
+            "longitude": -67.38033888888889
+          },
+          "date": "2025-09-01T14:29:15Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363618/north_america/yukon_2025/20250901_142914.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363618/north_america/yukon_2025/20250901_142914.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363618/north_america/yukon_2025/20250901_142914.jpg",
+            "public_id": "north_america/yukon_2025/20250901_142914"
+          }
+        },
+        {
+          "id": "20250902_104315.jpg",
+          "url": "north_america/yukon_2025/20250902_104315",
+          "position": {
+            "latitude": 48.699819444444444,
+            "longitude": -67.38033888888889
+          },
+          "date": "2025-09-02T10:43:15Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363620/north_america/yukon_2025/20250902_104315.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363620/north_america/yukon_2025/20250902_104315.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363620/north_america/yukon_2025/20250902_104315.jpg",
+            "public_id": "north_america/yukon_2025/20250902_104315"
+          }
+        },
+        {
+          "id": "20250902_104509.jpg",
+          "url": "north_america/yukon_2025/20250902_104509",
+          "position": {
+            "latitude": 48.699819444444444,
+            "longitude": -67.38033888888889
+          },
+          "date": "2025-09-02T10:45:12Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363622/north_america/yukon_2025/20250902_104509.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363622/north_america/yukon_2025/20250902_104509.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363622/north_america/yukon_2025/20250902_104509.jpg",
+            "public_id": "north_america/yukon_2025/20250902_104509"
+          }
+        },
+        {
+          "id": "20250902_104515.jpg",
+          "url": "north_america/yukon_2025/20250902_104515",
+          "position": {
+            "latitude": 48.699819444444444,
+            "longitude": -67.38033888888889
+          },
+          "date": "2025-09-02T10:45:17Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363624/north_america/yukon_2025/20250902_104515.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363624/north_america/yukon_2025/20250902_104515.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363624/north_america/yukon_2025/20250902_104515.jpg",
+            "public_id": "north_america/yukon_2025/20250902_104515"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 48.69981875,
+        "longitude": -67.38033888888889
+      }
+    },
+    {
+      "id": "cluster-7",
+      "photos": [
+        {
+          "id": "20250903_103450.jpg",
+          "url": "north_america/yukon_2025/20250903_103450",
+          "position": {
+            "latitude": 60.84035,
+            "longitude": -135.1857138888889
+          },
+          "date": "2025-09-03T10:34:50Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363628/north_america/yukon_2025/20250903_103450.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363628/north_america/yukon_2025/20250903_103450.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363628/north_america/yukon_2025/20250903_103450.jpg",
+            "public_id": "north_america/yukon_2025/20250903_103450"
+          }
+        },
+        {
+          "id": "20250903_104614.jpg",
+          "url": "north_america/yukon_2025/20250903_104614",
+          "position": {
+            "latitude": 60.84133611111111,
+            "longitude": -135.18678333333332
+          },
+          "date": "2025-09-03T10:46:14Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363633/north_america/yukon_2025/20250903_104614.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363633/north_america/yukon_2025/20250903_104614.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363633/north_america/yukon_2025/20250903_104614.jpg",
+            "public_id": "north_america/yukon_2025/20250903_104614"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 60.84084305555555,
+        "longitude": -135.18624861111113
+      }
+    },
+    {
+      "id": "cluster-8",
+      "photos": [
+        {
+          "id": "20250903_163749.jpg",
+          "url": "north_america/yukon_2025/20250903_163749",
+          "position": {
+            "latitude": 60.829463888888895,
+            "longitude": -135.1805111111111
+          },
+          "date": "2025-09-03T16:37:49Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363637/north_america/yukon_2025/20250903_163749.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363637/north_america/yukon_2025/20250903_163749.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363637/north_america/yukon_2025/20250903_163749.jpg",
+            "public_id": "north_america/yukon_2025/20250903_163749"
+          }
+        },
+        {
+          "id": "20250903_163923.jpg",
+          "url": "north_america/yukon_2025/20250903_163923",
+          "position": {
+            "latitude": 60.82983055555556,
+            "longitude": -135.1792972222222
+          },
+          "date": "2025-09-03T16:39:23Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363641/north_america/yukon_2025/20250903_163923.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363641/north_america/yukon_2025/20250903_163923.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363641/north_america/yukon_2025/20250903_163923.jpg",
+            "public_id": "north_america/yukon_2025/20250903_163923"
+          }
+        },
+        {
+          "id": "20250903_164025.jpg",
+          "url": "north_america/yukon_2025/20250903_164025",
+          "position": {
+            "latitude": 60.8297,
+            "longitude": -135.17854166666666
+          },
+          "date": "2025-09-03T16:40:25Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363644/north_america/yukon_2025/20250903_164025.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363644/north_america/yukon_2025/20250903_164025.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363644/north_america/yukon_2025/20250903_164025.jpg",
+            "public_id": "north_america/yukon_2025/20250903_164025"
+          }
+        },
+        {
+          "id": "20250903_164516.jpg",
+          "url": "north_america/yukon_2025/20250903_164516",
+          "position": {
+            "latitude": 60.828725000000006,
+            "longitude": -135.17514444444444
+          },
+          "date": "2025-09-03T16:45:16Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363648/north_america/yukon_2025/20250903_164516.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363648/north_america/yukon_2025/20250903_164516.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363648/north_america/yukon_2025/20250903_164516.jpg",
+            "public_id": "north_america/yukon_2025/20250903_164516"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 60.82942986111112,
+        "longitude": -135.17837361111108
+      }
+    },
+    {
+      "id": "cluster-9",
+      "photos": [
+        {
+          "id": "20250903_171813.jpg",
+          "url": "north_america/yukon_2025/20250903_171813",
+          "position": {
+            "latitude": 60.822747222222226,
+            "longitude": -135.18483055555555
+          },
+          "date": "2025-09-03T17:18:13Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363652/north_america/yukon_2025/20250903_171813.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363652/north_america/yukon_2025/20250903_171813.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363652/north_america/yukon_2025/20250903_171813.jpg",
+            "public_id": "north_america/yukon_2025/20250903_171813"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 60.822747222222226,
+        "longitude": -135.18483055555555
+      }
+    },
+    {
+      "id": "cluster-10",
+      "photos": [
+        {
+          "id": "20250904_114659.jpg",
+          "url": "north_america/yukon_2025/20250904_114659",
+          "position": {
+            "latitude": 60.268325,
+            "longitude": -134.74595
+          },
+          "date": "2025-09-04T11:46:59Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363655/north_america/yukon_2025/20250904_114659.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363655/north_america/yukon_2025/20250904_114659.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363655/north_america/yukon_2025/20250904_114659.jpg",
+            "public_id": "north_america/yukon_2025/20250904_114659"
+          }
+        },
+        {
+          "id": "20250904_134820.jpg",
+          "url": "north_america/yukon_2025/20250904_134820",
+          "position": {
+            "latitude": 60.268322222222224,
+            "longitude": -134.7459472222222
+          },
+          "date": "2025-09-04T13:48:20Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363658/north_america/yukon_2025/20250904_134820.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363658/north_america/yukon_2025/20250904_134820.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363658/north_america/yukon_2025/20250904_134820.jpg",
+            "public_id": "north_america/yukon_2025/20250904_134820"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 60.268323611111114,
+        "longitude": -134.7459486111111
+      }
+    },
+    {
+      "id": "cluster-11",
+      "photos": [
+        {
+          "id": "20250904_144053.jpg",
+          "url": "north_america/yukon_2025/20250904_144053",
+          "position": {
+            "latitude": 60.2262,
+            "longitude": -134.71371944444442
+          },
+          "date": "2025-09-04T14:40:53Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363660/north_america/yukon_2025/20250904_144053.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363660/north_america/yukon_2025/20250904_144053.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363660/north_america/yukon_2025/20250904_144053.jpg",
+            "public_id": "north_america/yukon_2025/20250904_144053"
+          }
+        },
+        {
+          "id": "20250904_144342.jpg",
+          "url": "north_america/yukon_2025/20250904_144342",
+          "position": {
+            "latitude": 60.22590277777778,
+            "longitude": -134.71278055555555
+          },
+          "date": "2025-09-04T14:43:42Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363663/north_america/yukon_2025/20250904_144342.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363663/north_america/yukon_2025/20250904_144342.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363663/north_america/yukon_2025/20250904_144342.jpg",
+            "public_id": "north_america/yukon_2025/20250904_144342"
+          }
+        },
+        {
+          "id": "20250904_145233.jpg",
+          "url": "north_america/yukon_2025/20250904_145233",
+          "position": {
+            "latitude": 60.226397222222225,
+            "longitude": -134.70965833333332
+          },
+          "date": "2025-09-04T14:52:33Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363666/north_america/yukon_2025/20250904_145233.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363666/north_america/yukon_2025/20250904_145233.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363666/north_america/yukon_2025/20250904_145233.jpg",
+            "public_id": "north_america/yukon_2025/20250904_145233"
+          }
+        },
+        {
+          "id": "20250904_145241.jpg",
+          "url": "north_america/yukon_2025/20250904_145241",
+          "position": {
+            "latitude": 60.22640277777778,
+            "longitude": -134.7096472222222
+          },
+          "date": "2025-09-04T14:52:41Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363669/north_america/yukon_2025/20250904_145241.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363669/north_america/yukon_2025/20250904_145241.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363669/north_america/yukon_2025/20250904_145241.jpg",
+            "public_id": "north_america/yukon_2025/20250904_145241"
+          }
+        },
+        {
+          "id": "20250904_150241.jpg",
+          "url": "north_america/yukon_2025/20250904_150241",
+          "position": {
+            "latitude": 60.22831388888889,
+            "longitude": -134.7075861111111
+          },
+          "date": "2025-09-04T15:02:41Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363673/north_america/yukon_2025/20250904_150241.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363673/north_america/yukon_2025/20250904_150241.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363673/north_america/yukon_2025/20250904_150241.jpg",
+            "public_id": "north_america/yukon_2025/20250904_150241"
+          }
+        },
+        {
+          "id": "20250904_150510.jpg",
+          "url": "north_america/yukon_2025/20250904_150510",
+          "position": {
+            "latitude": 60.22856388888889,
+            "longitude": -134.70728333333332
+          },
+          "date": "2025-09-04T15:05:10Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363676/north_america/yukon_2025/20250904_150510.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363676/north_america/yukon_2025/20250904_150510.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363676/north_america/yukon_2025/20250904_150510.jpg",
+            "public_id": "north_america/yukon_2025/20250904_150510"
+          }
+        },
+        {
+          "id": "20250904_151500.jpg",
+          "url": "north_america/yukon_2025/20250904_151500",
+          "position": {
+            "latitude": 60.22856111111111,
+            "longitude": -134.70732777777778
+          },
+          "date": "2025-09-04T15:15:00Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363679/north_america/yukon_2025/20250904_151500.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363679/north_america/yukon_2025/20250904_151500.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363679/north_america/yukon_2025/20250904_151500.jpg",
+            "public_id": "north_america/yukon_2025/20250904_151500"
+          }
+        },
+        {
+          "id": "20250904_153503.jpg",
+          "url": "north_america/yukon_2025/20250904_153503",
+          "position": {
+            "latitude": 60.227186111111116,
+            "longitude": -134.7087222222222
+          },
+          "date": "2025-09-04T15:35:03Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363682/north_america/yukon_2025/20250904_153503.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363682/north_america/yukon_2025/20250904_153503.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363682/north_america/yukon_2025/20250904_153503.jpg",
+            "public_id": "north_america/yukon_2025/20250904_153503"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 60.22719097222223,
+        "longitude": -134.70959062499998
+      }
+    },
+    {
+      "id": "cluster-12",
+      "photos": [
+        {
+          "id": "20250904_163419.jpg",
+          "url": "north_america/yukon_2025/20250904_163419",
+          "position": {
+            "latitude": 60.113344444444444,
+            "longitude": -134.5575166666667
+          },
+          "date": "2025-09-04T16:34:19Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363684/north_america/yukon_2025/20250904_163419.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363684/north_america/yukon_2025/20250904_163419.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363684/north_america/yukon_2025/20250904_163419.jpg",
+            "public_id": "north_america/yukon_2025/20250904_163419"
+          }
+        },
+        {
+          "id": "20250904_163431.jpg",
+          "url": "north_america/yukon_2025/20250904_163431",
+          "position": {
+            "latitude": 60.113344444444444,
+            "longitude": -134.5575166666667
+          },
+          "date": "2025-09-04T16:34:32Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363687/north_america/yukon_2025/20250904_163431.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363687/north_america/yukon_2025/20250904_163431.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363687/north_america/yukon_2025/20250904_163431.jpg",
+            "public_id": "north_america/yukon_2025/20250904_163431"
+          }
+        },
+        {
+          "id": "20250904_163527.jpg",
+          "url": "north_america/yukon_2025/20250904_163527",
+          "position": {
+            "latitude": 60.11346666666667,
+            "longitude": -134.55750277777778
+          },
+          "date": "2025-09-04T16:35:27Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363689/north_america/yukon_2025/20250904_163527.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363689/north_america/yukon_2025/20250904_163527.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363689/north_america/yukon_2025/20250904_163527.jpg",
+            "public_id": "north_america/yukon_2025/20250904_163527"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 60.11338518518519,
+        "longitude": -134.55751203703707
+      }
+    },
+    {
+      "id": "cluster-13",
+      "photos": [
+        {
+          "id": "20250905_140540.jpg",
+          "url": "north_america/yukon_2025/20250905_140540",
+          "position": {
+            "latitude": 60.06116944444444,
+            "longitude": -134.57600555555555
+          },
+          "date": "2025-09-05T14:05:40Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363699/north_america/yukon_2025/20250905_140540.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363699/north_america/yukon_2025/20250905_140540.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363699/north_america/yukon_2025/20250905_140540.jpg",
+            "public_id": "north_america/yukon_2025/20250905_140540"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 60.06116944444444,
+        "longitude": -134.57600555555555
+      }
+    },
+    {
+      "id": "cluster-14",
+      "photos": [
+        {
+          "id": "20250905_141259.jpg",
+          "url": "north_america/yukon_2025/20250905_141259",
+          "position": {
+            "latitude": 60.06033055555555,
+            "longitude": -134.5829222222222
+          },
+          "date": "2025-09-05T14:12:59Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363702/north_america/yukon_2025/20250905_141259.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363702/north_america/yukon_2025/20250905_141259.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363702/north_america/yukon_2025/20250905_141259.jpg",
+            "public_id": "north_america/yukon_2025/20250905_141259"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 60.06033055555555,
+        "longitude": -134.5829222222222
+      }
+    },
+    {
+      "id": "cluster-15",
+      "photos": [
+        {
+          "id": "20250905_142412.jpg",
+          "url": "north_america/yukon_2025/20250905_142412",
+          "position": {
+            "latitude": 60.05779444444444,
+            "longitude": -134.59056111111113
+          },
+          "date": "2025-09-05T14:24:12Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363704/north_america/yukon_2025/20250905_142412.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363704/north_america/yukon_2025/20250905_142412.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363704/north_america/yukon_2025/20250905_142412.jpg",
+            "public_id": "north_america/yukon_2025/20250905_142412"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 60.05779444444444,
+        "longitude": -134.59056111111113
+      }
+    },
+    {
+      "id": "cluster-16",
+      "photos": [
+        {
+          "id": "20250905_145237.jpg",
+          "url": "north_america/yukon_2025/20250905_145237",
+          "position": {
+            "latitude": 60.058680555555554,
+            "longitude": -134.60187777777776
+          },
+          "date": "2025-09-05T14:52:38Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363706/north_america/yukon_2025/20250905_145237.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363706/north_america/yukon_2025/20250905_145237.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363706/north_america/yukon_2025/20250905_145237.jpg",
+            "public_id": "north_america/yukon_2025/20250905_145237"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 60.058680555555554,
+        "longitude": -134.60187777777776
+      }
+    },
+    {
+      "id": "cluster-17",
+      "photos": [
+        {
+          "id": "20250905_154013.jpg",
+          "url": "north_america/yukon_2025/20250905_154013",
+          "position": {
+            "latitude": 60.05693888888889,
+            "longitude": -134.6143888888889
+          },
+          "date": "2025-09-05T15:40:14Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363709/north_america/yukon_2025/20250905_154013.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363709/north_america/yukon_2025/20250905_154013.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363709/north_america/yukon_2025/20250905_154013.jpg",
+            "public_id": "north_america/yukon_2025/20250905_154013"
+          }
+        },
+        {
+          "id": "20250905_154109.jpg",
+          "url": "north_america/yukon_2025/20250905_154109",
+          "position": {
+            "latitude": 60.056725,
+            "longitude": -134.61413888888887
+          },
+          "date": "2025-09-05T15:41:09Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363712/north_america/yukon_2025/20250905_154109.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363712/north_america/yukon_2025/20250905_154109.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363712/north_america/yukon_2025/20250905_154109.jpg",
+            "public_id": "north_america/yukon_2025/20250905_154109"
+          }
+        },
+        {
+          "id": "20250905_154315.jpg",
+          "url": "north_america/yukon_2025/20250905_154315",
+          "position": {
+            "latitude": 60.056380555555556,
+            "longitude": -134.61327777777777
+          },
+          "date": "2025-09-05T15:43:16Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363714/north_america/yukon_2025/20250905_154315.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363714/north_america/yukon_2025/20250905_154315.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363714/north_america/yukon_2025/20250905_154315.jpg",
+            "public_id": "north_america/yukon_2025/20250905_154315"
+          }
+        },
+        {
+          "id": "20250905_154322.jpg",
+          "url": "north_america/yukon_2025/20250905_154322",
+          "position": {
+            "latitude": 60.056374999999996,
+            "longitude": -134.6132638888889
+          },
+          "date": "2025-09-05T15:43:22Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363717/north_america/yukon_2025/20250905_154322.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363717/north_america/yukon_2025/20250905_154322.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363717/north_america/yukon_2025/20250905_154322.jpg",
+            "public_id": "north_america/yukon_2025/20250905_154322"
+          }
+        },
+        {
+          "id": "20250905_154404.jpg",
+          "url": "north_america/yukon_2025/20250905_154404",
+          "position": {
+            "latitude": 60.05619722222222,
+            "longitude": -134.61355555555556
+          },
+          "date": "2025-09-05T15:44:04Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363719/north_america/yukon_2025/20250905_154404.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363719/north_america/yukon_2025/20250905_154404.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363719/north_america/yukon_2025/20250905_154404.jpg",
+            "public_id": "north_america/yukon_2025/20250905_154404"
+          }
+        },
+        {
+          "id": "20250905_154439.jpg",
+          "url": "north_america/yukon_2025/20250905_154439",
+          "position": {
+            "latitude": 60.05612222222222,
+            "longitude": -134.61339444444445
+          },
+          "date": "2025-09-05T15:44:39Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363722/north_america/yukon_2025/20250905_154439.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363722/north_america/yukon_2025/20250905_154439.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363722/north_america/yukon_2025/20250905_154439.jpg",
+            "public_id": "north_america/yukon_2025/20250905_154439"
+          }
+        },
+        {
+          "id": "20250905_154506.jpg",
+          "url": "north_america/yukon_2025/20250905_154506",
+          "position": {
+            "latitude": 60.056124999999994,
+            "longitude": -134.613375
+          },
+          "date": "2025-09-05T15:45:06Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363724/north_america/yukon_2025/20250905_154506.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363724/north_america/yukon_2025/20250905_154506.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363724/north_america/yukon_2025/20250905_154506.jpg",
+            "public_id": "north_america/yukon_2025/20250905_154506"
+          }
+        },
+        {
+          "id": "20250905_154753.jpg",
+          "url": "north_america/yukon_2025/20250905_154753",
+          "position": {
+            "latitude": 60.05573333333333,
+            "longitude": -134.61353055555554
+          },
+          "date": "2025-09-05T15:47:53Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363728/north_america/yukon_2025/20250905_154753.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363728/north_america/yukon_2025/20250905_154753.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363728/north_america/yukon_2025/20250905_154753.jpg",
+            "public_id": "north_america/yukon_2025/20250905_154753"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 60.056324652777775,
+        "longitude": -134.613615625
+      }
+    },
+    {
+      "id": "cluster-18",
+      "photos": [
+        {
+          "id": "20250905_170601.jpg",
+          "url": "north_america/yukon_2025/20250905_170601",
+          "position": {
+            "latitude": 60.058452777777774,
+            "longitude": -134.59674444444445
+          },
+          "date": "2025-09-05T17:06:01Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363731/north_america/yukon_2025/20250905_170601.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363731/north_america/yukon_2025/20250905_170601.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363731/north_america/yukon_2025/20250905_170601.jpg",
+            "public_id": "north_america/yukon_2025/20250905_170601"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 60.058452777777774,
+        "longitude": -134.59674444444445
+      }
+    },
+    {
+      "id": "cluster-19",
+      "photos": [
+        {
+          "id": "20250905_233051.jpg",
+          "url": "north_america/yukon_2025/20250905_233051",
+          "position": {
+            "latitude": 59.726330555555556,
+            "longitude": -134.99760555555554
+          },
+          "date": "2025-09-05T23:30:51Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363733/north_america/yukon_2025/20250905_233051.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363733/north_america/yukon_2025/20250905_233051.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363733/north_america/yukon_2025/20250905_233051.jpg",
+            "public_id": "north_america/yukon_2025/20250905_233051"
+          }
+        },
+        {
+          "id": "20250905_233122.jpg",
+          "url": "north_america/yukon_2025/20250905_233122",
+          "position": {
+            "latitude": 59.726419444444446,
+            "longitude": -134.99769444444442
+          },
+          "date": "2025-09-05T23:31:22Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363736/north_america/yukon_2025/20250905_233122.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363736/north_america/yukon_2025/20250905_233122.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363736/north_america/yukon_2025/20250905_233122.jpg",
+            "public_id": "north_america/yukon_2025/20250905_233122"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 59.726375000000004,
+        "longitude": -134.99764999999996
+      }
+    },
+    {
+      "id": "cluster-20",
+      "photos": [
+        {
+          "id": "20250906_113548.jpg",
+          "url": "north_america/yukon_2025/20250906_113548",
+          "position": {
+            "latitude": 59.63393055555556,
+            "longitude": -135.16324722222222
+          },
+          "date": "2025-09-06T11:35:49Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363742/north_america/yukon_2025/20250906_113548.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363742/north_america/yukon_2025/20250906_113548.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363742/north_america/yukon_2025/20250906_113548.jpg",
+            "public_id": "north_america/yukon_2025/20250906_113548"
+          }
+        },
+        {
+          "id": "20250906_113736.jpg",
+          "url": "north_america/yukon_2025/20250906_113736",
+          "position": {
+            "latitude": 59.63373611111111,
+            "longitude": -135.16408611111112
+          },
+          "date": "2025-09-06T11:37:36Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363744/north_america/yukon_2025/20250906_113736.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363744/north_america/yukon_2025/20250906_113736.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363744/north_america/yukon_2025/20250906_113736.jpg",
+            "public_id": "north_america/yukon_2025/20250906_113736"
+          }
+        },
+        {
+          "id": "20250906_114714.jpg",
+          "url": "north_america/yukon_2025/20250906_114714",
+          "position": {
+            "latitude": 59.634677777777775,
+            "longitude": -135.16785277777777
+          },
+          "date": "2025-09-06T11:47:14Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363747/north_america/yukon_2025/20250906_114714.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363747/north_america/yukon_2025/20250906_114714.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363747/north_america/yukon_2025/20250906_114714.jpg",
+            "public_id": "north_america/yukon_2025/20250906_114714"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 59.634114814814815,
+        "longitude": -135.16506203703705
+      }
+    },
+    {
+      "id": "cluster-21",
+      "photos": [
+        {
+          "id": "20250906_120700.jpg",
+          "url": "north_america/yukon_2025/20250906_120700",
+          "position": {
+            "latitude": 59.63557222222222,
+            "longitude": -135.17938055555555
+          },
+          "date": "2025-09-06T12:07:00Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363750/north_america/yukon_2025/20250906_120700.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363750/north_america/yukon_2025/20250906_120700.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363750/north_america/yukon_2025/20250906_120700.jpg",
+            "public_id": "north_america/yukon_2025/20250906_120700"
+          }
+        },
+        {
+          "id": "20250906_120922.jpg",
+          "url": "north_america/yukon_2025/20250906_120922",
+          "position": {
+            "latitude": 59.635888888888886,
+            "longitude": -135.18025277777778
+          },
+          "date": "2025-09-06T12:09:22Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363758/north_america/yukon_2025/20250906_120922.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363758/north_america/yukon_2025/20250906_120922.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363758/north_america/yukon_2025/20250906_120922.jpg",
+            "public_id": "north_america/yukon_2025/20250906_120922"
+          }
+        },
+        {
+          "id": "20250906_121151.jpg",
+          "url": "north_america/yukon_2025/20250906_121151",
+          "position": {
+            "latitude": 59.63590555555555,
+            "longitude": -135.18149444444444
+          },
+          "date": "2025-09-06T12:11:52Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363763/north_america/yukon_2025/20250906_121151.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363763/north_america/yukon_2025/20250906_121151.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363763/north_america/yukon_2025/20250906_121151.jpg",
+            "public_id": "north_america/yukon_2025/20250906_121151"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 59.63578888888889,
+        "longitude": -135.18037592592592
+      }
+    },
+    {
+      "id": "cluster-22",
+      "photos": [
+        {
+          "id": "20250906_123739.jpg",
+          "url": "north_america/yukon_2025/20250906_123739",
+          "position": {
+            "latitude": 59.63400277777778,
+            "longitude": -135.16495
+          },
+          "date": "2025-09-06T12:37:39Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363766/north_america/yukon_2025/20250906_123739.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363766/north_america/yukon_2025/20250906_123739.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363766/north_america/yukon_2025/20250906_123739.jpg",
+            "public_id": "north_america/yukon_2025/20250906_123739"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 59.63400277777778,
+        "longitude": -135.16495
+      }
+    },
+    {
+      "id": "cluster-23",
+      "photos": [
+        {
+          "id": "20250906_162712.jpg",
+          "url": "north_america/yukon_2025/20250906_162712",
+          "position": {
+            "latitude": 59.650644444444445,
+            "longitude": -135.13156666666669
+          },
+          "date": "2025-09-06T16:27:12Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363770/north_america/yukon_2025/20250906_162712.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363770/north_america/yukon_2025/20250906_162712.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363770/north_america/yukon_2025/20250906_162712.jpg",
+            "public_id": "north_america/yukon_2025/20250906_162712"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 59.650644444444445,
+        "longitude": -135.13156666666669
+      }
+    },
+    {
+      "id": "cluster-24",
+      "photos": [
+        {
+          "id": "20250906_163035.jpg",
+          "url": "north_america/yukon_2025/20250906_163035",
+          "position": {
+            "latitude": 59.668394444444445,
+            "longitude": -135.11175
+          },
+          "date": "2025-09-06T16:30:36Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363773/north_america/yukon_2025/20250906_163035.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363773/north_america/yukon_2025/20250906_163035.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363773/north_america/yukon_2025/20250906_163035.jpg",
+            "public_id": "north_america/yukon_2025/20250906_163035"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 59.668394444444445,
+        "longitude": -135.11175
+      }
+    },
+    {
+      "id": "cluster-25",
+      "photos": [
+        {
+          "id": "20250906_163920.jpg",
+          "url": "north_america/yukon_2025/20250906_163920",
+          "position": {
+            "latitude": 59.71789444444445,
+            "longitude": -135.04345833333332
+          },
+          "date": "2025-09-06T16:39:21Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363776/north_america/yukon_2025/20250906_163920.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363776/north_america/yukon_2025/20250906_163920.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363776/north_america/yukon_2025/20250906_163920.jpg",
+            "public_id": "north_america/yukon_2025/20250906_163920"
+          }
+        },
+        {
+          "id": "20250906_163942.jpg",
+          "url": "north_america/yukon_2025/20250906_163942",
+          "position": {
+            "latitude": 59.71789444444445,
+            "longitude": -135.04345833333332
+          },
+          "date": "2025-09-06T16:39:42Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363779/north_america/yukon_2025/20250906_163942.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363779/north_america/yukon_2025/20250906_163942.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363779/north_america/yukon_2025/20250906_163942.jpg",
+            "public_id": "north_america/yukon_2025/20250906_163942"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 59.71789444444445,
+        "longitude": -135.04345833333332
+      }
+    },
+    {
+      "id": "cluster-26",
+      "photos": [
+        {
+          "id": "20250907_132252.jpg",
+          "url": "north_america/yukon_2025/20250907_132252",
+          "position": {
+            "latitude": 60.71958888888889,
+            "longitude": -135.05265
+          },
+          "date": "2025-09-07T13:22:52Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363785/north_america/yukon_2025/20250907_132252.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363785/north_america/yukon_2025/20250907_132252.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363785/north_america/yukon_2025/20250907_132252.jpg",
+            "public_id": "north_america/yukon_2025/20250907_132252"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 60.71958888888889,
+        "longitude": -135.05265
+      }
+    },
+    {
+      "id": "cluster-27",
+      "photos": [
+        {
+          "id": "20250907_154435.jpg",
+          "url": "north_america/yukon_2025/20250907_154435",
+          "position": {
+            "latitude": 60.851866666666666,
+            "longitude": -135.87345000000002
+          },
+          "date": "2025-09-07T15:44:35Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363788/north_america/yukon_2025/20250907_154435.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363788/north_america/yukon_2025/20250907_154435.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363788/north_america/yukon_2025/20250907_154435.jpg",
+            "public_id": "north_america/yukon_2025/20250907_154435"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 60.851866666666666,
+        "longitude": -135.87345000000002
+      }
+    },
+    {
+      "id": "cluster-28",
+      "photos": [
+        {
+          "id": "20250910_202415.jpg",
+          "url": "north_america/yukon_2025/20250910_202415",
+          "position": {
+            "latitude": 61.99202777777778,
+            "longitude": -136.2117888888889
+          },
+          "date": "2025-09-10T20:24:15Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363791/north_america/yukon_2025/20250910_202415.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363791/north_america/yukon_2025/20250910_202415.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363791/north_america/yukon_2025/20250910_202415.jpg",
+            "public_id": "north_america/yukon_2025/20250910_202415"
+          }
+        },
+        {
+          "id": "20250910_202646.jpg",
+          "url": "north_america/yukon_2025/20250910_202646",
+          "position": {
+            "latitude": 61.99248888888889,
+            "longitude": -136.2116722222222
+          },
+          "date": "2025-09-10T20:26:47Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363794/north_america/yukon_2025/20250910_202646.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363794/north_america/yukon_2025/20250910_202646.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363794/north_america/yukon_2025/20250910_202646.jpg",
+            "public_id": "north_america/yukon_2025/20250910_202646"
+          }
+        },
+        {
+          "id": "20250910_202803.jpg",
+          "url": "north_america/yukon_2025/20250910_202803",
+          "position": {
+            "latitude": 61.992469444444446,
+            "longitude": -136.21183055555554
+          },
+          "date": "2025-09-10T20:28:03Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363797/north_america/yukon_2025/20250910_202803.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363797/north_america/yukon_2025/20250910_202803.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363797/north_america/yukon_2025/20250910_202803.jpg",
+            "public_id": "north_america/yukon_2025/20250910_202803"
+          }
+        },
+        {
+          "id": "20250910_203550.jpg",
+          "url": "north_america/yukon_2025/20250910_203550",
+          "position": {
+            "latitude": 61.99014444444445,
+            "longitude": -136.2112111111111
+          },
+          "date": "2025-09-10T20:35:51Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363801/north_america/yukon_2025/20250910_203550.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363801/north_america/yukon_2025/20250910_203550.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363801/north_america/yukon_2025/20250910_203550.jpg",
+            "public_id": "north_america/yukon_2025/20250910_203550"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 61.99178263888889,
+        "longitude": -136.21162569444445
+      }
+    },
+    {
+      "id": "cluster-29",
+      "photos": [
+        {
+          "id": "20250911_160040.jpg",
+          "url": "north_america/yukon_2025/20250911_160040",
+          "position": {
+            "latitude": 62.41600277777778,
+            "longitude": -136.59850555555556
+          },
+          "date": "2025-09-11T16:00:40Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363803/north_america/yukon_2025/20250911_160040.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363803/north_america/yukon_2025/20250911_160040.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363803/north_america/yukon_2025/20250911_160040.jpg",
+            "public_id": "north_america/yukon_2025/20250911_160040"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 62.41600277777778,
+        "longitude": -136.59850555555556
+      }
+    },
+    {
+      "id": "cluster-30",
+      "photos": [
+        {
+          "id": "20250913_133215.jpg",
+          "url": "north_america/yukon_2025/20250913_133215",
+          "position": {
+            "latitude": 64.06161666666667,
+            "longitude": -139.43683611111112
+          },
+          "date": "2025-09-13T13:32:15Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363809/north_america/yukon_2025/20250913_133215.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363809/north_america/yukon_2025/20250913_133215.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363809/north_america/yukon_2025/20250913_133215.jpg",
+            "public_id": "north_america/yukon_2025/20250913_133215"
+          }
+        },
+        {
+          "id": "20250913_133905.jpg",
+          "url": "north_america/yukon_2025/20250913_133905",
+          "position": {
+            "latitude": 64.06264166666666,
+            "longitude": -139.43508055555557
+          },
+          "date": "2025-09-13T13:39:05Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363812/north_america/yukon_2025/20250913_133905.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363812/north_america/yukon_2025/20250913_133905.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363812/north_america/yukon_2025/20250913_133905.jpg",
+            "public_id": "north_america/yukon_2025/20250913_133905"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 64.06212916666667,
+        "longitude": -139.43595833333336
+      }
+    },
+    {
+      "id": "cluster-31",
+      "photos": [
+        {
+          "id": "20250913_155403.jpg",
+          "url": "north_america/yukon_2025/20250913_155403",
+          "position": {
+            "latitude": 64.33863888888888,
+            "longitude": -138.43940555555557
+          },
+          "date": "2025-09-13T15:54:03Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363815/north_america/yukon_2025/20250913_155403.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363815/north_america/yukon_2025/20250913_155403.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363815/north_america/yukon_2025/20250913_155403.jpg",
+            "public_id": "north_america/yukon_2025/20250913_155403"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 64.33863888888888,
+        "longitude": -138.43940555555557
+      }
+    },
+    {
+      "id": "cluster-32",
+      "photos": [
+        {
+          "id": "20250913_155928.jpg",
+          "url": "north_america/yukon_2025/20250913_155928",
+          "position": {
+            "latitude": 64.35478611111111,
+            "longitude": -138.4092777777778
+          },
+          "date": "2025-09-13T15:59:28Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363818/north_america/yukon_2025/20250913_155928.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363818/north_america/yukon_2025/20250913_155928.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363818/north_america/yukon_2025/20250913_155928.jpg",
+            "public_id": "north_america/yukon_2025/20250913_155928"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 64.35478611111111,
+        "longitude": -138.4092777777778
+      }
+    },
+    {
+      "id": "cluster-33",
+      "photos": [
+        {
+          "id": "20250913_162359.jpg",
+          "url": "north_america/yukon_2025/20250913_162359",
+          "position": {
+            "latitude": 64.47154444444445,
+            "longitude": -138.20039166666666
+          },
+          "date": "2025-09-13T16:23:59Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363821/north_america/yukon_2025/20250913_162359.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363821/north_america/yukon_2025/20250913_162359.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363821/north_america/yukon_2025/20250913_162359.jpg",
+            "public_id": "north_america/yukon_2025/20250913_162359"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 64.47154444444445,
+        "longitude": -138.20039166666666
+      }
+    },
+    {
+      "id": "cluster-34",
+      "photos": [
+        {
+          "id": "20250913_163434.jpg",
+          "url": "north_america/yukon_2025/20250913_163434",
+          "position": {
+            "latitude": 64.52281666666667,
+            "longitude": -138.24591666666666
+          },
+          "date": "2025-09-13T16:34:35Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363824/north_america/yukon_2025/20250913_163434.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363824/north_america/yukon_2025/20250913_163434.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363824/north_america/yukon_2025/20250913_163434.jpg",
+            "public_id": "north_america/yukon_2025/20250913_163434"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 64.52281666666667,
+        "longitude": -138.24591666666666
+      }
+    },
+    {
+      "id": "cluster-35",
+      "photos": [
+        {
+          "id": "20250913_170342.jpg",
+          "url": "north_america/yukon_2025/20250913_170342",
+          "position": {
+            "latitude": 64.6188611111111,
+            "longitude": -138.36675277777778
+          },
+          "date": "2025-09-13T17:03:42Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363827/north_america/yukon_2025/20250913_170342.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363827/north_america/yukon_2025/20250913_170342.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363827/north_america/yukon_2025/20250913_170342.jpg",
+            "public_id": "north_america/yukon_2025/20250913_170342"
+          }
+        },
+        {
+          "id": "20250913_170635.jpg",
+          "url": "north_america/yukon_2025/20250913_170635",
+          "position": {
+            "latitude": 64.61888055555555,
+            "longitude": -138.36646944444445
+          },
+          "date": "2025-09-13T17:06:35Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363831/north_america/yukon_2025/20250913_170635.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363831/north_america/yukon_2025/20250913_170635.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363831/north_america/yukon_2025/20250913_170635.jpg",
+            "public_id": "north_america/yukon_2025/20250913_170635"
+          }
+        },
+        {
+          "id": "20250913_170741.jpg",
+          "url": "north_america/yukon_2025/20250913_170741",
+          "position": {
+            "latitude": 64.6190861111111,
+            "longitude": -138.36677500000002
+          },
+          "date": "2025-09-13T17:07:42Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363834/north_america/yukon_2025/20250913_170741.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363834/north_america/yukon_2025/20250913_170741.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363834/north_america/yukon_2025/20250913_170741.jpg",
+            "public_id": "north_america/yukon_2025/20250913_170741"
+          }
+        },
+        {
+          "id": "20250913_170837.jpg",
+          "url": "north_america/yukon_2025/20250913_170837",
+          "position": {
+            "latitude": 64.6189861111111,
+            "longitude": -138.3672777777778
+          },
+          "date": "2025-09-13T17:08:38Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363838/north_america/yukon_2025/20250913_170837.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363838/north_america/yukon_2025/20250913_170837.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363838/north_america/yukon_2025/20250913_170837.jpg",
+            "public_id": "north_america/yukon_2025/20250913_170837"
+          }
+        },
+        {
+          "id": "20250913_170926.jpg",
+          "url": "north_america/yukon_2025/20250913_170926",
+          "position": {
+            "latitude": 64.61895277777776,
+            "longitude": -138.36724722222223
+          },
+          "date": "2025-09-13T17:09:26Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363842/north_america/yukon_2025/20250913_170926.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363842/north_america/yukon_2025/20250913_170926.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363842/north_america/yukon_2025/20250913_170926.jpg",
+            "public_id": "north_america/yukon_2025/20250913_170926"
+          }
+        },
+        {
+          "id": "20250913_202400.jpg",
+          "url": "north_america/yukon_2025/20250913_202400",
+          "position": {
+            "latitude": 64.61888055555555,
+            "longitude": -138.36968611111112
+          },
+          "date": "2025-09-13T20:24:00Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363845/north_america/yukon_2025/20250913_202400.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363845/north_america/yukon_2025/20250913_202400.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363845/north_america/yukon_2025/20250913_202400.jpg",
+            "public_id": "north_america/yukon_2025/20250913_202400"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 64.6189412037037,
+        "longitude": -138.36736805555557
+      }
+    },
+    {
+      "id": "cluster-36",
+      "photos": [
+        {
+          "id": "20250914_144105.jpg",
+          "url": "north_america/yukon_2025/20250914_144105",
+          "position": {
+            "latitude": 65.01026944444445,
+            "longitude": -138.19965
+          },
+          "date": "2025-09-14T14:41:05Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363848/north_america/yukon_2025/20250914_144105.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363848/north_america/yukon_2025/20250914_144105.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363848/north_america/yukon_2025/20250914_144105.jpg",
+            "public_id": "north_america/yukon_2025/20250914_144105"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 65.01026944444445,
+        "longitude": -138.19965
+      }
+    },
+    {
+      "id": "cluster-37",
+      "photos": [
+        {
+          "id": "20250915_133505.jpg",
+          "url": "north_america/yukon_2025/20250915_133505",
+          "position": {
+            "latitude": 66.37146388888888,
+            "longitude": -136.7206888888889
+          },
+          "date": "2025-09-15T13:35:05Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363851/north_america/yukon_2025/20250915_133505.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363851/north_america/yukon_2025/20250915_133505.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363851/north_america/yukon_2025/20250915_133505.jpg",
+            "public_id": "north_america/yukon_2025/20250915_133505"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 66.37146388888888,
+        "longitude": -136.7206888888889
+      }
+    },
+    {
+      "id": "cluster-38",
+      "photos": [
+        {
+          "id": "20250915_134717.jpg",
+          "url": "north_america/yukon_2025/20250915_134717",
+          "position": {
+            "latitude": 66.37472777777778,
+            "longitude": -136.71170277777776
+          },
+          "date": "2025-09-15T13:47:18Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363854/north_america/yukon_2025/20250915_134717.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363854/north_america/yukon_2025/20250915_134717.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363854/north_america/yukon_2025/20250915_134717.jpg",
+            "public_id": "north_america/yukon_2025/20250915_134717"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 66.37472777777778,
+        "longitude": -136.71170277777776
+      }
+    },
+    {
+      "id": "cluster-39",
+      "photos": [
+        {
+          "id": "20250915_143549.jpg",
+          "url": "north_america/yukon_2025/20250915_143549",
+          "position": {
+            "latitude": 66.55297222222222,
+            "longitude": -136.33920277777779
+          },
+          "date": "2025-09-15T14:35:49Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363858/north_america/yukon_2025/20250915_143549.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363858/north_america/yukon_2025/20250915_143549.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363858/north_america/yukon_2025/20250915_143549.jpg",
+            "public_id": "north_america/yukon_2025/20250915_143549"
+          }
+        },
+        {
+          "id": "20250915_143758.jpg",
+          "url": "north_america/yukon_2025/20250915_143758",
+          "position": {
+            "latitude": 66.55274166666666,
+            "longitude": -136.3376027777778
+          },
+          "date": "2025-09-15T14:37:58Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363862/north_america/yukon_2025/20250915_143758.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363862/north_america/yukon_2025/20250915_143758.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363862/north_america/yukon_2025/20250915_143758.jpg",
+            "public_id": "north_america/yukon_2025/20250915_143758"
+          }
+        },
+        {
+          "id": "20250915_195630.jpg",
+          "url": "north_america/yukon_2025/20250915_195630",
+          "position": {
+            "latitude": 66.55277222222222,
+            "longitude": -136.33468055555556
+          },
+          "date": "2025-09-15T19:56:31Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363865/north_america/yukon_2025/20250915_195630.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363865/north_america/yukon_2025/20250915_195630.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363865/north_america/yukon_2025/20250915_195630.jpg",
+            "public_id": "north_america/yukon_2025/20250915_195630"
+          }
+        },
+        {
+          "id": "20250915_200329(0).jpg",
+          "url": "north_america/yukon_2025/20250915_200329(0)",
+          "position": {
+            "latitude": 66.55195555555555,
+            "longitude": -136.3372388888889
+          },
+          "date": "2025-09-15T20:03:29Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363869/north_america/yukon_2025/20250915_200329%280%29.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363869/north_america/yukon_2025/20250915_200329%280%29.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363869/north_america/yukon_2025/20250915_200329%280%29.jpg",
+            "public_id": "north_america/yukon_2025/20250915_200329(0)"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 66.55261041666667,
+        "longitude": -136.33718125000001
+      }
+    },
+    {
+      "id": "cluster-40",
+      "photos": [
+        {
+          "id": "20250915_201031.jpg",
+          "url": "north_america/yukon_2025/20250915_201031",
+          "position": {
+            "latitude": 66.54987222222222,
+            "longitude": -136.3427861111111
+          },
+          "date": "2025-09-15T20:10:31Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363871/north_america/yukon_2025/20250915_201031.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363871/north_america/yukon_2025/20250915_201031.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363871/north_america/yukon_2025/20250915_201031.jpg",
+            "public_id": "north_america/yukon_2025/20250915_201031"
+          }
+        },
+        {
+          "id": "20250915_235034.jpg",
+          "url": "north_america/yukon_2025/20250915_235034",
+          "position": {
+            "latitude": 66.54955277777778,
+            "longitude": -136.34174444444446
+          },
+          "date": "2025-09-15T23:50:34Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363875/north_america/yukon_2025/20250915_235034.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363875/north_america/yukon_2025/20250915_235034.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363875/north_america/yukon_2025/20250915_235034.jpg",
+            "public_id": "north_america/yukon_2025/20250915_235034"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 66.5497125,
+        "longitude": -136.34226527777778
+      }
+    },
+    {
+      "id": "cluster-41",
+      "photos": [
+        {
+          "id": "20250916_151818.jpg",
+          "url": "north_america/yukon_2025/20250916_151818",
+          "position": {
+            "latitude": 66.94092222222223,
+            "longitude": -136.25327777777778
+          },
+          "date": "2025-09-16T15:18:19Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363881/north_america/yukon_2025/20250916_151818.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363881/north_america/yukon_2025/20250916_151818.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363881/north_america/yukon_2025/20250916_151818.jpg",
+            "public_id": "north_america/yukon_2025/20250916_151818"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 66.94092222222223,
+        "longitude": -136.25327777777778
+      }
+    },
+    {
+      "id": "cluster-42",
+      "photos": [
+        {
+          "id": "20250916_152151.jpg",
+          "url": "north_america/yukon_2025/20250916_152151",
+          "position": {
+            "latitude": 66.9490888888889,
+            "longitude": -136.234425
+          },
+          "date": "2025-09-16T15:21:52Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363883/north_america/yukon_2025/20250916_152151.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363883/north_america/yukon_2025/20250916_152151.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363883/north_america/yukon_2025/20250916_152151.jpg",
+            "public_id": "north_america/yukon_2025/20250916_152151"
+          }
+        },
+        {
+          "id": "20250916_152726.jpg",
+          "url": "north_america/yukon_2025/20250916_152726",
+          "position": {
+            "latitude": 66.94915555555556,
+            "longitude": -136.2343611111111
+          },
+          "date": "2025-09-16T15:27:26Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363888/north_america/yukon_2025/20250916_152726.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363888/north_america/yukon_2025/20250916_152726.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363888/north_america/yukon_2025/20250916_152726.jpg",
+            "public_id": "north_america/yukon_2025/20250916_152726"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 66.94912222222223,
+        "longitude": -136.23439305555553
+      }
+    },
+    {
+      "id": "cluster-43",
+      "photos": [
+        {
+          "id": "20250916_153907.jpg",
+          "url": "north_america/yukon_2025/20250916_153907",
+          "position": {
+            "latitude": 67.00156111111112,
+            "longitude": -136.2151111111111
+          },
+          "date": "2025-09-16T15:39:08Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363891/north_america/yukon_2025/20250916_153907.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363891/north_america/yukon_2025/20250916_153907.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363891/north_america/yukon_2025/20250916_153907.jpg",
+            "public_id": "north_america/yukon_2025/20250916_153907"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 67.00156111111112,
+        "longitude": -136.2151111111111
+      }
+    },
+    {
+      "id": "cluster-44",
+      "photos": [
+        {
+          "id": "20250916_154334.jpg",
+          "url": "north_america/yukon_2025/20250916_154334",
+          "position": {
+            "latitude": 67.02003333333333,
+            "longitude": -136.2019861111111
+          },
+          "date": "2025-09-16T15:43:34Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363894/north_america/yukon_2025/20250916_154334.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363894/north_america/yukon_2025/20250916_154334.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363894/north_america/yukon_2025/20250916_154334.jpg",
+            "public_id": "north_america/yukon_2025/20250916_154334"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 67.02003333333333,
+        "longitude": -136.2019861111111
+      }
+    },
+    {
+      "id": "cluster-45",
+      "photos": [
+        {
+          "id": "20250916_160740.jpg",
+          "url": "north_america/yukon_2025/20250916_160740",
+          "position": {
+            "latitude": 67.17182222222223,
+            "longitude": -135.88204722222224
+          },
+          "date": "2025-09-16T16:07:40Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363896/north_america/yukon_2025/20250916_160740.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363896/north_america/yukon_2025/20250916_160740.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363896/north_america/yukon_2025/20250916_160740.jpg",
+            "public_id": "north_america/yukon_2025/20250916_160740"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 67.17182222222223,
+        "longitude": -135.88204722222224
+      }
+    },
+    {
+      "id": "cluster-46",
+      "photos": [
+        {
+          "id": "20250916_165613.jpg",
+          "url": "north_america/yukon_2025/20250916_165613",
+          "position": {
+            "latitude": 67.33701944444444,
+            "longitude": -134.88201111111113
+          },
+          "date": "2025-09-16T16:56:13Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363900/north_america/yukon_2025/20250916_165613.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363900/north_america/yukon_2025/20250916_165613.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363900/north_america/yukon_2025/20250916_165613.jpg",
+            "public_id": "north_america/yukon_2025/20250916_165613"
+          }
+        },
+        {
+          "id": "20250916_165625.jpg",
+          "url": "north_america/yukon_2025/20250916_165625",
+          "position": {
+            "latitude": 67.337025,
+            "longitude": -134.88199722222222
+          },
+          "date": "2025-09-16T16:56:25Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363902/north_america/yukon_2025/20250916_165625.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363902/north_america/yukon_2025/20250916_165625.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363902/north_america/yukon_2025/20250916_165625.jpg",
+            "public_id": "north_america/yukon_2025/20250916_165625"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 67.33702222222222,
+        "longitude": -134.88200416666666
+      }
+    },
+    {
+      "id": "cluster-47",
+      "photos": [
+        {
+          "id": "20250916_180145.jpg",
+          "url": "north_america/yukon_2025/20250916_180145",
+          "position": {
+            "latitude": 67.44737777777779,
+            "longitude": -133.76010555555555
+          },
+          "date": "2025-09-16T18:01:45Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363905/north_america/yukon_2025/20250916_180145.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363905/north_america/yukon_2025/20250916_180145.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363905/north_america/yukon_2025/20250916_180145.jpg",
+            "public_id": "north_america/yukon_2025/20250916_180145"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 67.44737777777779,
+        "longitude": -133.76010555555555
+      }
+    },
+    {
+      "id": "cluster-48",
+      "photos": [
+        {
+          "id": "20250917_111636.jpg",
+          "url": "north_america/yukon_2025/20250917_111636",
+          "position": {
+            "latitude": 69.35348333333333,
+            "longitude": -133.04073333333332
+          },
+          "date": "2025-09-17T11:16:36Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363907/north_america/yukon_2025/20250917_111636.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363907/north_america/yukon_2025/20250917_111636.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363907/north_america/yukon_2025/20250917_111636.jpg",
+            "public_id": "north_america/yukon_2025/20250917_111636"
+          }
+        },
+        {
+          "id": "20250917_112551.jpg",
+          "url": "north_america/yukon_2025/20250917_112551",
+          "position": {
+            "latitude": 69.35421666666666,
+            "longitude": -133.04167222222222
+          },
+          "date": "2025-09-17T11:25:51Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363911/north_america/yukon_2025/20250917_112551.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363911/north_america/yukon_2025/20250917_112551.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363911/north_america/yukon_2025/20250917_112551.jpg",
+            "public_id": "north_america/yukon_2025/20250917_112551"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 69.35385,
+        "longitude": -133.04120277777776
+      }
+    },
+    {
+      "id": "cluster-49",
+      "photos": [
+        {
+          "id": "20250917_174333.jpg",
+          "url": "north_america/yukon_2025/20250917_174333",
+          "position": {
+            "latitude": 69.45594722222222,
+            "longitude": -133.03556388888887
+          },
+          "date": "2025-09-17T17:43:33Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363915/north_america/yukon_2025/20250917_174333.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363915/north_america/yukon_2025/20250917_174333.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363915/north_america/yukon_2025/20250917_174333.jpg",
+            "public_id": "north_america/yukon_2025/20250917_174333"
+          }
+        },
+        {
+          "id": "20250917_175134.jpg",
+          "url": "north_america/yukon_2025/20250917_175134",
+          "position": {
+            "latitude": 69.45458055555555,
+            "longitude": -133.037625
+          },
+          "date": "2025-09-17T17:51:34Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363917/north_america/yukon_2025/20250917_175134.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363917/north_america/yukon_2025/20250917_175134.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363917/north_america/yukon_2025/20250917_175134.jpg",
+            "public_id": "north_america/yukon_2025/20250917_175134"
+          }
+        },
+        {
+          "id": "20250917_175208.jpg",
+          "url": "north_america/yukon_2025/20250917_175208",
+          "position": {
+            "latitude": 69.45451944444444,
+            "longitude": -133.03761944444443
+          },
+          "date": "2025-09-17T17:52:09Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363921/north_america/yukon_2025/20250917_175208.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363921/north_america/yukon_2025/20250917_175208.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363921/north_america/yukon_2025/20250917_175208.jpg",
+            "public_id": "north_america/yukon_2025/20250917_175208"
+          }
+        },
+        {
+          "id": "20250917_175308.jpg",
+          "url": "north_america/yukon_2025/20250917_175308",
+          "position": {
+            "latitude": 69.45482777777778,
+            "longitude": -133.03706111111111
+          },
+          "date": "2025-09-17T17:53:08Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363923/north_america/yukon_2025/20250917_175308.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363923/north_america/yukon_2025/20250917_175308.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363923/north_america/yukon_2025/20250917_175308.jpg",
+            "public_id": "north_america/yukon_2025/20250917_175308"
+          }
+        },
+        {
+          "id": "20250917_175421.jpg",
+          "url": "north_america/yukon_2025/20250917_175421",
+          "position": {
+            "latitude": 69.45535277777778,
+            "longitude": -133.03701666666666
+          },
+          "date": "2025-09-17T17:54:21Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363926/north_america/yukon_2025/20250917_175421.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363926/north_america/yukon_2025/20250917_175421.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363926/north_america/yukon_2025/20250917_175421.jpg",
+            "public_id": "north_america/yukon_2025/20250917_175421"
+          }
+        },
+        {
+          "id": "20250917_175535.jpg",
+          "url": "north_america/yukon_2025/20250917_175535",
+          "position": {
+            "latitude": 69.45546944444445,
+            "longitude": -133.03705833333333
+          },
+          "date": "2025-09-17T17:55:35Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363929/north_america/yukon_2025/20250917_175535.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363929/north_america/yukon_2025/20250917_175535.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363929/north_america/yukon_2025/20250917_175535.jpg",
+            "public_id": "north_america/yukon_2025/20250917_175535"
+          }
+        },
+        {
+          "id": "20250917_175606.jpg",
+          "url": "north_america/yukon_2025/20250917_175606",
+          "position": {
+            "latitude": 69.45548333333333,
+            "longitude": -133.0370722222222
+          },
+          "date": "2025-09-17T17:56:06Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363932/north_america/yukon_2025/20250917_175606.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363932/north_america/yukon_2025/20250917_175606.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363932/north_america/yukon_2025/20250917_175606.jpg",
+            "public_id": "north_america/yukon_2025/20250917_175606"
+          }
+        },
+        {
+          "id": "20250917_175918.jpg",
+          "url": "north_america/yukon_2025/20250917_175918",
+          "position": {
+            "latitude": 69.45541111111112,
+            "longitude": -133.03679722222222
+          },
+          "date": "2025-09-17T17:59:18Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363935/north_america/yukon_2025/20250917_175918.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363935/north_america/yukon_2025/20250917_175918.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363935/north_america/yukon_2025/20250917_175918.jpg",
+            "public_id": "north_america/yukon_2025/20250917_175918"
+          }
+        },
+        {
+          "id": "20250917_180208.jpg",
+          "url": "north_america/yukon_2025/20250917_180208",
+          "position": {
+            "latitude": 69.45348333333334,
+            "longitude": -133.03793888888887
+          },
+          "date": "2025-09-17T18:02:08Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363938/north_america/yukon_2025/20250917_180208.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363938/north_america/yukon_2025/20250917_180208.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363938/north_america/yukon_2025/20250917_180208.jpg",
+            "public_id": "north_america/yukon_2025/20250917_180208"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 69.45500833333332,
+        "longitude": -133.0370836419753
+      }
+    },
+    {
+      "id": "cluster-50",
+      "photos": [
+        {
+          "id": "20250917_182321.jpg",
+          "url": "north_america/yukon_2025/20250917_182321",
+          "position": {
+            "latitude": 69.4283638888889,
+            "longitude": -132.99615555555553
+          },
+          "date": "2025-09-17T18:23:21Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363942/north_america/yukon_2025/20250917_182321.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363942/north_america/yukon_2025/20250917_182321.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363942/north_america/yukon_2025/20250917_182321.jpg",
+            "public_id": "north_america/yukon_2025/20250917_182321"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 69.4283638888889,
+        "longitude": -132.99615555555553
+      }
+    },
+    {
+      "id": "cluster-51",
+      "photos": [
+        {
+          "id": "20250917_183357.jpg",
+          "url": "north_america/yukon_2025/20250917_183357",
+          "position": {
+            "latitude": 69.42031666666666,
+            "longitude": -133.02173611111112
+          },
+          "date": "2025-09-17T18:33:57Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363944/north_america/yukon_2025/20250917_183357.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363944/north_america/yukon_2025/20250917_183357.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363944/north_america/yukon_2025/20250917_183357.jpg",
+            "public_id": "north_america/yukon_2025/20250917_183357"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 69.42031666666666,
+        "longitude": -133.02173611111112
+      }
+    },
+    {
+      "id": "cluster-52",
+      "photos": [
+        {
+          "id": "20250917_192207.jpg",
+          "url": "north_america/yukon_2025/20250917_192207",
+          "position": {
+            "latitude": 69.41188611111112,
+            "longitude": -133.03485833333332
+          },
+          "date": "2025-09-17T19:22:07Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363947/north_america/yukon_2025/20250917_192207.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363947/north_america/yukon_2025/20250917_192207.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363947/north_america/yukon_2025/20250917_192207.jpg",
+            "public_id": "north_america/yukon_2025/20250917_192207"
+          }
+        },
+        {
+          "id": "20250917_192645.jpg",
+          "url": "north_america/yukon_2025/20250917_192645",
+          "position": {
+            "latitude": 69.41157777777778,
+            "longitude": -133.03573055555555
+          },
+          "date": "2025-09-17T19:26:46Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363950/north_america/yukon_2025/20250917_192645.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363950/north_america/yukon_2025/20250917_192645.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363950/north_america/yukon_2025/20250917_192645.jpg",
+            "public_id": "north_america/yukon_2025/20250917_192645"
+          }
+        },
+        {
+          "id": "20250917_193930.jpg",
+          "url": "north_america/yukon_2025/20250917_193930",
+          "position": {
+            "latitude": 69.41197777777778,
+            "longitude": -133.03500555555556
+          },
+          "date": "2025-09-17T19:39:31Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363953/north_america/yukon_2025/20250917_193930.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363953/north_america/yukon_2025/20250917_193930.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363953/north_america/yukon_2025/20250917_193930.jpg",
+            "public_id": "north_america/yukon_2025/20250917_193930"
+          }
+        },
+        {
+          "id": "20250918_105653.jpg",
+          "url": "north_america/yukon_2025/20250918_105653",
+          "position": {
+            "latitude": 69.4132388888889,
+            "longitude": -133.03278888888892
+          },
+          "date": "2025-09-18T10:56:53Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363955/north_america/yukon_2025/20250918_105653.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363955/north_america/yukon_2025/20250918_105653.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363955/north_america/yukon_2025/20250918_105653.jpg",
+            "public_id": "north_america/yukon_2025/20250918_105653"
+          }
+        },
+        {
+          "id": "20250918_120733.jpg",
+          "url": "north_america/yukon_2025/20250918_120733",
+          "position": {
+            "latitude": 69.40924444444445,
+            "longitude": -133.03508888888888
+          },
+          "date": "2025-09-18T12:07:33Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363958/north_america/yukon_2025/20250918_120733.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363958/north_america/yukon_2025/20250918_120733.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363958/north_america/yukon_2025/20250918_120733.jpg",
+            "public_id": "north_america/yukon_2025/20250918_120733"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 69.41158500000002,
+        "longitude": -133.03469444444445
+      }
+    },
+    {
+      "id": "cluster-53",
+      "photos": [
+        {
+          "id": "20250918_120920.jpg",
+          "url": "north_america/yukon_2025/20250918_120920",
+          "position": {
+            "latitude": 69.40581111111112,
+            "longitude": -133.03050555555558
+          },
+          "date": "2025-09-18T12:09:20Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363961/north_america/yukon_2025/20250918_120920.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363961/north_america/yukon_2025/20250918_120920.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363961/north_america/yukon_2025/20250918_120920.jpg",
+            "public_id": "north_america/yukon_2025/20250918_120920"
+          }
+        },
+        {
+          "id": "20250918_120926.jpg",
+          "url": "north_america/yukon_2025/20250918_120926",
+          "position": {
+            "latitude": 69.40581111111112,
+            "longitude": -133.03050555555558
+          },
+          "date": "2025-09-18T12:09:27Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363964/north_america/yukon_2025/20250918_120926.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363964/north_america/yukon_2025/20250918_120926.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363964/north_america/yukon_2025/20250918_120926.jpg",
+            "public_id": "north_america/yukon_2025/20250918_120926"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 69.40581111111112,
+        "longitude": -133.03050555555558
+      }
+    },
+    {
+      "id": "cluster-54",
+      "photos": [
+        {
+          "id": "20250918_130609.jpg",
+          "url": "north_america/yukon_2025/20250918_130609",
+          "position": {
+            "latitude": 69.04605555555555,
+            "longitude": -133.18939444444445
+          },
+          "date": "2025-09-18T13:06:09Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363966/north_america/yukon_2025/20250918_130609.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363966/north_america/yukon_2025/20250918_130609.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363966/north_america/yukon_2025/20250918_130609.jpg",
+            "public_id": "north_america/yukon_2025/20250918_130609"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 69.04605555555555,
+        "longitude": -133.18939444444445
+      }
+    },
+    {
+      "id": "cluster-55",
+      "photos": [
+        {
+          "id": "20250918_130738.jpg",
+          "url": "north_america/yukon_2025/20250918_130738",
+          "position": {
+            "latitude": 69.042725,
+            "longitude": -133.19985555555556
+          },
+          "date": "2025-09-18T13:07:38Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363968/north_america/yukon_2025/20250918_130738.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363968/north_america/yukon_2025/20250918_130738.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363968/north_america/yukon_2025/20250918_130738.jpg",
+            "public_id": "north_america/yukon_2025/20250918_130738"
+          }
+        },
+        {
+          "id": "20250918_130812.jpg",
+          "url": "north_america/yukon_2025/20250918_130812",
+          "position": {
+            "latitude": 69.042625,
+            "longitude": -133.20080277777777
+          },
+          "date": "2025-09-18T13:08:12Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363970/north_america/yukon_2025/20250918_130812.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363970/north_america/yukon_2025/20250918_130812.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363970/north_america/yukon_2025/20250918_130812.jpg",
+            "public_id": "north_america/yukon_2025/20250918_130812"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 69.042675,
+        "longitude": -133.20032916666668
+      }
+    },
+    {
+      "id": "cluster-56",
+      "photos": [
+        {
+          "id": "20250918_173344.jpg",
+          "url": "north_america/yukon_2025/20250918_173344",
+          "position": {
+            "latitude": 68.35883888888888,
+            "longitude": -133.72152222222223
+          },
+          "date": "2025-09-18T17:33:44Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363973/north_america/yukon_2025/20250918_173344.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363973/north_america/yukon_2025/20250918_173344.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363973/north_america/yukon_2025/20250918_173344.jpg",
+            "public_id": "north_america/yukon_2025/20250918_173344"
+          }
+        },
+        {
+          "id": "20250918_173516.jpg",
+          "url": "north_america/yukon_2025/20250918_173516",
+          "position": {
+            "latitude": 68.35906666666666,
+            "longitude": -133.72199444444445
+          },
+          "date": "2025-09-18T17:35:16Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363976/north_america/yukon_2025/20250918_173516.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363976/north_america/yukon_2025/20250918_173516.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363976/north_america/yukon_2025/20250918_173516.jpg",
+            "public_id": "north_america/yukon_2025/20250918_173516"
+          }
+        },
+        {
+          "id": "20250918_173524.jpg",
+          "url": "north_america/yukon_2025/20250918_173524",
+          "position": {
+            "latitude": 68.35906666666666,
+            "longitude": -133.72199444444445
+          },
+          "date": "2025-09-18T17:35:24Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363979/north_america/yukon_2025/20250918_173524.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363979/north_america/yukon_2025/20250918_173524.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363979/north_america/yukon_2025/20250918_173524.jpg",
+            "public_id": "north_america/yukon_2025/20250918_173524"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 68.35899074074074,
+        "longitude": -133.72183703703706
+      }
+    },
+    {
+      "id": "cluster-57",
+      "photos": [
+        {
+          "id": "20250918_184401.jpg",
+          "url": "north_america/yukon_2025/20250918_184401",
+          "position": {
+            "latitude": 68.23808611111112,
+            "longitude": -133.30018055555556
+          },
+          "date": "2025-09-18T18:44:02Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363981/north_america/yukon_2025/20250918_184401.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363981/north_america/yukon_2025/20250918_184401.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363981/north_america/yukon_2025/20250918_184401.jpg",
+            "public_id": "north_america/yukon_2025/20250918_184401"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 68.23808611111112,
+        "longitude": -133.30018055555556
+      }
+    },
+    {
+      "id": "cluster-58",
+      "photos": [
+        {
+          "id": "20250918_195356.jpg",
+          "url": "north_america/yukon_2025/20250918_195356",
+          "position": {
+            "latitude": 67.754675,
+            "longitude": -133.8549361111111
+          },
+          "date": "2025-09-18T19:53:56Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363984/north_america/yukon_2025/20250918_195356.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363984/north_america/yukon_2025/20250918_195356.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363984/north_america/yukon_2025/20250918_195356.jpg",
+            "public_id": "north_america/yukon_2025/20250918_195356"
+          }
+        },
+        {
+          "id": "20250919_121008.jpg",
+          "url": "north_america/yukon_2025/20250919_121008",
+          "position": {
+            "latitude": 67.75468611111111,
+            "longitude": -133.85503888888888
+          },
+          "date": "2025-09-19T12:10:09Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363986/north_america/yukon_2025/20250919_121008.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363986/north_america/yukon_2025/20250919_121008.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363986/north_america/yukon_2025/20250919_121008.jpg",
+            "public_id": "north_america/yukon_2025/20250919_121008"
+          }
+        },
+        {
+          "id": "20250919_121521.jpg",
+          "url": "north_america/yukon_2025/20250919_121521",
+          "position": {
+            "latitude": 67.75506944444444,
+            "longitude": -133.85453611111112
+          },
+          "date": "2025-09-19T12:15:21Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363989/north_america/yukon_2025/20250919_121521.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363989/north_america/yukon_2025/20250919_121521.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363989/north_america/yukon_2025/20250919_121521.jpg",
+            "public_id": "north_america/yukon_2025/20250919_121521"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 67.75481018518518,
+        "longitude": -133.85483703703702
+      }
+    },
+    {
+      "id": "cluster-59",
+      "photos": [
+        {
+          "id": "20250919_202754.jpg",
+          "url": "north_america/yukon_2025/20250919_202754",
+          "position": {
+            "latitude": 67.45653888888889,
+            "longitude": -133.75727777777777
+          },
+          "date": "2025-09-19T20:27:54Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363991/north_america/yukon_2025/20250919_202754.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363991/north_america/yukon_2025/20250919_202754.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363991/north_america/yukon_2025/20250919_202754.jpg",
+            "public_id": "north_america/yukon_2025/20250919_202754"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 67.45653888888889,
+        "longitude": -133.75727777777777
+      }
+    },
+    {
+      "id": "cluster-60",
+      "photos": [
+        {
+          "id": "20250919_210057.jpg",
+          "url": "north_america/yukon_2025/20250919_210057",
+          "position": {
+            "latitude": 67.44696388888889,
+            "longitude": -133.7604611111111
+          },
+          "date": "2025-09-19T21:00:57Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795363994/north_america/yukon_2025/20250919_210057.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795363994/north_america/yukon_2025/20250919_210057.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795363994/north_america/yukon_2025/20250919_210057.jpg",
+            "public_id": "north_america/yukon_2025/20250919_210057"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 67.44696388888889,
+        "longitude": -133.7604611111111
+      }
+    },
+    {
+      "id": "cluster-61",
+      "photos": [
+        {
+          "id": "20250920_131055.jpg",
+          "url": "north_america/yukon_2025/20250920_131055",
+          "position": {
+            "latitude": 67.17673611111111,
+            "longitude": -135.83720555555556
+          },
+          "date": "2025-09-20T13:10:56Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364000/north_america/yukon_2025/20250920_131055.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364000/north_america/yukon_2025/20250920_131055.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364000/north_america/yukon_2025/20250920_131055.jpg",
+            "public_id": "north_america/yukon_2025/20250920_131055"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 67.17673611111111,
+        "longitude": -135.83720555555556
+      }
+    },
+    {
+      "id": "cluster-62",
+      "photos": [
+        {
+          "id": "20250920_133144.jpg",
+          "url": "north_america/yukon_2025/20250920_133144",
+          "position": {
+            "latitude": 67.10739444444444,
+            "longitude": -136.08955555555556
+          },
+          "date": "2025-09-20T13:31:44Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364002/north_america/yukon_2025/20250920_133144.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364002/north_america/yukon_2025/20250920_133144.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364002/north_america/yukon_2025/20250920_133144.jpg",
+            "public_id": "north_america/yukon_2025/20250920_133144"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 67.10739444444444,
+        "longitude": -136.08955555555556
+      }
+    },
+    {
+      "id": "cluster-63",
+      "photos": [
+        {
+          "id": "20250920_134003.jpg",
+          "url": "north_america/yukon_2025/20250920_134003",
+          "position": {
+            "latitude": 67.06901388888889,
+            "longitude": -136.16971944444444
+          },
+          "date": "2025-09-20T13:40:03Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364005/north_america/yukon_2025/20250920_134003.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364005/north_america/yukon_2025/20250920_134003.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364005/north_america/yukon_2025/20250920_134003.jpg",
+            "public_id": "north_america/yukon_2025/20250920_134003"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 67.06901388888889,
+        "longitude": -136.16971944444444
+      }
+    },
+    {
+      "id": "cluster-64",
+      "photos": [
+        {
+          "id": "20250920_141004.jpg",
+          "url": "north_america/yukon_2025/20250920_141004",
+          "position": {
+            "latitude": 66.82237777777777,
+            "longitude": -136.3463027777778
+          },
+          "date": "2025-09-20T14:10:05Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364007/north_america/yukon_2025/20250920_141004.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364007/north_america/yukon_2025/20250920_141004.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364007/north_america/yukon_2025/20250920_141004.jpg",
+            "public_id": "north_america/yukon_2025/20250920_141004"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 66.82237777777777,
+        "longitude": -136.3463027777778
+      }
+    },
+    {
+      "id": "cluster-65",
+      "photos": [
+        {
+          "id": "20250921_133851.jpg",
+          "url": "north_america/yukon_2025/20250921_133851",
+          "position": {
+            "latitude": 66.54952777777778,
+            "longitude": -136.34169444444444
+          },
+          "date": "2025-09-21T13:38:51Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364010/north_america/yukon_2025/20250921_133851.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364010/north_america/yukon_2025/20250921_133851.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364010/north_america/yukon_2025/20250921_133851.jpg",
+            "public_id": "north_america/yukon_2025/20250921_133851"
+          }
+        },
+        {
+          "id": "20250921_134022.jpg",
+          "url": "north_america/yukon_2025/20250921_134022",
+          "position": {
+            "latitude": 66.54921944444445,
+            "longitude": -136.3402861111111
+          },
+          "date": "2025-09-21T13:40:22Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364014/north_america/yukon_2025/20250921_134022.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364014/north_america/yukon_2025/20250921_134022.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364014/north_america/yukon_2025/20250921_134022.jpg",
+            "public_id": "north_america/yukon_2025/20250921_134022"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 66.54937361111112,
+        "longitude": -136.3409902777778
+      }
+    },
+    {
+      "id": "cluster-66",
+      "photos": [
+        {
+          "id": "20250921_145158.jpg",
+          "url": "north_america/yukon_2025/20250921_145158",
+          "position": {
+            "latitude": 66.44095833333334,
+            "longitude": -136.71152222222221
+          },
+          "date": "2025-09-21T14:51:58Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364017/north_america/yukon_2025/20250921_145158.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364017/north_america/yukon_2025/20250921_145158.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364017/north_america/yukon_2025/20250921_145158.jpg",
+            "public_id": "north_america/yukon_2025/20250921_145158"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 66.44095833333334,
+        "longitude": -136.71152222222221
+      }
+    },
+    {
+      "id": "cluster-67",
+      "photos": [
+        {
+          "id": "20250922_115424.jpg",
+          "url": "north_america/yukon_2025/20250922_115424",
+          "position": {
+            "latitude": 65.33914444444444,
+            "longitude": -138.24994999999998
+          },
+          "date": "2025-09-22T11:54:24Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364020/north_america/yukon_2025/20250922_115424.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364020/north_america/yukon_2025/20250922_115424.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364020/north_america/yukon_2025/20250922_115424.jpg",
+            "public_id": "north_america/yukon_2025/20250922_115424"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 65.33914444444444,
+        "longitude": -138.24994999999998
+      }
+    },
+    {
+      "id": "cluster-68",
+      "photos": [
+        {
+          "id": "20250922_122945.jpg",
+          "url": "north_america/yukon_2025/20250922_122945",
+          "position": {
+            "latitude": 65.04761388888889,
+            "longitude": -138.1435
+          },
+          "date": "2025-09-22T12:29:45Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364023/north_america/yukon_2025/20250922_122945.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364023/north_america/yukon_2025/20250922_122945.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364023/north_america/yukon_2025/20250922_122945.jpg",
+            "public_id": "north_america/yukon_2025/20250922_122945"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 65.04761388888889,
+        "longitude": -138.1435
+      }
+    },
+    {
+      "id": "cluster-69",
+      "photos": [
+        {
+          "id": "20250922_124436.jpg",
+          "url": "north_america/yukon_2025/20250922_124436",
+          "position": {
+            "latitude": 64.89975277777778,
+            "longitude": -138.27734166666667
+          },
+          "date": "2025-09-22T12:44:36Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364025/north_america/yukon_2025/20250922_124436.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364025/north_america/yukon_2025/20250922_124436.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364025/north_america/yukon_2025/20250922_124436.jpg",
+            "public_id": "north_america/yukon_2025/20250922_124436"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 64.89975277777778,
+        "longitude": -138.27734166666667
+      }
+    },
+    {
+      "id": "cluster-70",
+      "photos": [
+        {
+          "id": "20250922_130647.jpg",
+          "url": "north_america/yukon_2025/20250922_130647",
+          "position": {
+            "latitude": 64.6683888888889,
+            "longitude": -138.39297777777776
+          },
+          "date": "2025-09-22T13:06:47Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364029/north_america/yukon_2025/20250922_130647.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364029/north_america/yukon_2025/20250922_130647.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364029/north_america/yukon_2025/20250922_130647.jpg",
+            "public_id": "north_america/yukon_2025/20250922_130647"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 64.6683888888889,
+        "longitude": -138.39297777777776
+      }
+    },
+    {
+      "id": "cluster-71",
+      "photos": [
+        {
+          "id": "20250922_130909.jpg",
+          "url": "north_america/yukon_2025/20250922_130909",
+          "position": {
+            "latitude": 64.65306111111111,
+            "longitude": -138.38535
+          },
+          "date": "2025-09-22T13:09:10Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364032/north_america/yukon_2025/20250922_130909.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364032/north_america/yukon_2025/20250922_130909.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364032/north_america/yukon_2025/20250922_130909.jpg",
+            "public_id": "north_america/yukon_2025/20250922_130909"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 64.65306111111111,
+        "longitude": -138.38535
+      }
+    },
+    {
+      "id": "cluster-72",
+      "photos": [
+        {
+          "id": "20250922_132949.jpg",
+          "url": "north_america/yukon_2025/20250922_132949",
+          "position": {
+            "latitude": 64.50743055555556,
+            "longitude": -138.21912777777777
+          },
+          "date": "2025-09-22T13:29:49Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364035/north_america/yukon_2025/20250922_132949.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364035/north_america/yukon_2025/20250922_132949.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364035/north_america/yukon_2025/20250922_132949.jpg",
+            "public_id": "north_america/yukon_2025/20250922_132949"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 64.50743055555556,
+        "longitude": -138.21912777777777
+      }
+    },
+    {
+      "id": "cluster-73",
+      "photos": [
+        {
+          "id": "20250922_133249.jpg",
+          "url": "north_america/yukon_2025/20250922_133249",
+          "position": {
+            "latitude": 64.480125,
+            "longitude": -138.19734722222222
+          },
+          "date": "2025-09-22T13:32:49Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364038/north_america/yukon_2025/20250922_133249.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364038/north_america/yukon_2025/20250922_133249.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364038/north_america/yukon_2025/20250922_133249.jpg",
+            "public_id": "north_america/yukon_2025/20250922_133249"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 64.480125,
+        "longitude": -138.19734722222222
+      }
+    },
+    {
+      "id": "cluster-74",
+      "photos": [
+        {
+          "id": "20250922_145837.jpg",
+          "url": "north_america/yukon_2025/20250922_145837",
+          "position": {
+            "latitude": 63.99041388888889,
+            "longitude": -138.74838888888888
+          },
+          "date": "2025-09-22T14:58:37Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364042/north_america/yukon_2025/20250922_145837.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364042/north_america/yukon_2025/20250922_145837.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364042/north_america/yukon_2025/20250922_145837.jpg",
+            "public_id": "north_america/yukon_2025/20250922_145837"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 63.99041388888889,
+        "longitude": -138.74838888888888
+      }
+    },
+    {
+      "id": "cluster-75",
+      "photos": [
+        {
+          "id": "20250926_121809.jpg",
+          "url": "north_america/yukon_2025/20250926_121809",
+          "position": {
+            "latitude": 62.72284722222222,
+            "longitude": -136.69786666666667
+          },
+          "date": "2025-09-26T12:18:10Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364045/north_america/yukon_2025/20250926_121809.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364045/north_america/yukon_2025/20250926_121809.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364045/north_america/yukon_2025/20250926_121809.jpg",
+            "public_id": "north_america/yukon_2025/20250926_121809"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 62.72284722222222,
+        "longitude": -136.69786666666667
+      }
+    },
+    {
+      "id": "cluster-76",
+      "photos": [
+        {
+          "id": "20250928_140049.jpg",
+          "url": "north_america/yukon_2025/20250928_140049",
+          "position": {
+            "latitude": 60.659774999999996,
+            "longitude": -135.10265277777776
+          },
+          "date": "2025-09-28T14:00:49Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364053/north_america/yukon_2025/20250928_140049.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364053/north_america/yukon_2025/20250928_140049.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364053/north_america/yukon_2025/20250928_140049.jpg",
+            "public_id": "north_america/yukon_2025/20250928_140049"
+          }
+        },
+        {
+          "id": "20250928_140104.jpg",
+          "url": "north_america/yukon_2025/20250928_140104",
+          "position": {
+            "latitude": 60.659774999999996,
+            "longitude": -135.10265277777776
+          },
+          "date": "2025-09-28T14:01:04Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364055/north_america/yukon_2025/20250928_140104.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364055/north_america/yukon_2025/20250928_140104.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364055/north_america/yukon_2025/20250928_140104.jpg",
+            "public_id": "north_america/yukon_2025/20250928_140104"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 60.659774999999996,
+        "longitude": -135.10265277777776
+      }
+    },
+    {
+      "id": "cluster-77",
+      "photos": [
+        {
+          "id": "20250930_132716.jpg",
+          "url": "north_america/yukon_2025/20250930_132716",
+          "position": {
+            "latitude": 60.99133055555556,
+            "longitude": -135.1949972222222
+          },
+          "date": "2025-09-30T13:27:16Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364058/north_america/yukon_2025/20250930_132716.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364058/north_america/yukon_2025/20250930_132716.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364058/north_america/yukon_2025/20250930_132716.jpg",
+            "public_id": "north_america/yukon_2025/20250930_132716"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 60.99133055555556,
+        "longitude": -135.1949972222222
+      }
+    },
+    {
+      "id": "cluster-78",
+      "photos": [
+        {
+          "id": "20251001_132903.jpg",
+          "url": "north_america/yukon_2025/20251001_132903",
+          "position": {
+            "latitude": 60.65228611111111,
+            "longitude": -135.09976111111112
+          },
+          "date": "2025-10-01T13:29:03Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364063/north_america/yukon_2025/20251001_132903.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364063/north_america/yukon_2025/20251001_132903.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364063/north_america/yukon_2025/20251001_132903.jpg",
+            "public_id": "north_america/yukon_2025/20251001_132903"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 60.65228611111111,
+        "longitude": -135.09976111111112
+      }
+    },
+    {
+      "id": "cluster-79",
+      "photos": [
+        {
+          "id": "20251002_180306.jpg",
+          "url": "north_america/yukon_2025/20251002_180306",
+          "position": {
+            "latitude": 60.802902777777774,
+            "longitude": -136.56444166666668
+          },
+          "date": "2025-10-02T18:03:07Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364066/north_america/yukon_2025/20251002_180306.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364066/north_america/yukon_2025/20251002_180306.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364066/north_america/yukon_2025/20251002_180306.jpg",
+            "public_id": "north_america/yukon_2025/20251002_180306"
+          }
+        },
+        {
+          "id": "20251002_182948.jpg",
+          "url": "north_america/yukon_2025/20251002_182948",
+          "position": {
+            "latitude": 60.803638888888884,
+            "longitude": -136.56389444444446
+          },
+          "date": "2025-10-02T18:29:49Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364069/north_america/yukon_2025/20251002_182948.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364069/north_america/yukon_2025/20251002_182948.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364069/north_america/yukon_2025/20251002_182948.jpg",
+            "public_id": "north_america/yukon_2025/20251002_182948"
+          }
+        },
+        {
+          "id": "20251003_115148.jpg",
+          "url": "north_america/yukon_2025/20251003_115148",
+          "position": {
+            "latitude": 60.80352222222222,
+            "longitude": -136.56411666666668
+          },
+          "date": "2025-10-03T11:51:48Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364071/north_america/yukon_2025/20251003_115148.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364071/north_america/yukon_2025/20251003_115148.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364071/north_america/yukon_2025/20251003_115148.jpg",
+            "public_id": "north_america/yukon_2025/20251003_115148"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 60.80335462962963,
+        "longitude": -136.56415092592593
+      }
+    },
+    {
+      "id": "cluster-80",
+      "photos": [
+        {
+          "id": "20251004_144319.jpg",
+          "url": "north_america/yukon_2025/20251004_144319",
+          "position": {
+            "latitude": 60.821672222222226,
+            "longitude": -137.39093055555554
+          },
+          "date": "2025-10-04T14:43:19Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364073/north_america/yukon_2025/20251004_144319.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364073/north_america/yukon_2025/20251004_144319.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364073/north_america/yukon_2025/20251004_144319.jpg",
+            "public_id": "north_america/yukon_2025/20251004_144319"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 60.821672222222226,
+        "longitude": -137.39093055555554
+      }
+    },
+    {
+      "id": "cluster-81",
+      "photos": [
+        {
+          "id": "20251004_155447.jpg",
+          "url": "north_america/yukon_2025/20251004_155447",
+          "position": {
+            "latitude": 60.678241666666665,
+            "longitude": -137.3578638888889
+          },
+          "date": "2025-10-04T15:54:47Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364076/north_america/yukon_2025/20251004_155447.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364076/north_america/yukon_2025/20251004_155447.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364076/north_america/yukon_2025/20251004_155447.jpg",
+            "public_id": "north_america/yukon_2025/20251004_155447"
+          }
+        },
+        {
+          "id": "20251004_155544.jpg",
+          "url": "north_america/yukon_2025/20251004_155544",
+          "position": {
+            "latitude": 60.678066666666666,
+            "longitude": -137.35766666666666
+          },
+          "date": "2025-10-04T15:55:44Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364079/north_america/yukon_2025/20251004_155544.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364079/north_america/yukon_2025/20251004_155544.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364079/north_america/yukon_2025/20251004_155544.jpg",
+            "public_id": "north_america/yukon_2025/20251004_155544"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 60.678154166666666,
+        "longitude": -137.3577652777778
+      }
+    },
+    {
+      "id": "cluster-82",
+      "photos": [
+        {
+          "id": "20251005_203808.jpg",
+          "url": "north_america/yukon_2025/20251005_203808",
+          "position": {
+            "latitude": 60.75292777777778,
+            "longitude": -137.51126666666667
+          },
+          "date": "2025-10-05T20:38:09Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364083/north_america/yukon_2025/20251005_203808.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364083/north_america/yukon_2025/20251005_203808.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364083/north_america/yukon_2025/20251005_203808.jpg",
+            "public_id": "north_america/yukon_2025/20251005_203808"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 60.75292777777778,
+        "longitude": -137.51126666666667
+      }
+    },
+    {
+      "id": "cluster-83",
+      "photos": [
+        {
+          "id": "20251006_120958.jpg",
+          "url": "north_america/yukon_2025/20251006_120958",
+          "position": {
+            "latitude": 60.80284444444444,
+            "longitude": -136.56182777777778
+          },
+          "date": "2025-10-06T12:09:59Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364086/north_america/yukon_2025/20251006_120958.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364086/north_america/yukon_2025/20251006_120958.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364086/north_america/yukon_2025/20251006_120958.jpg",
+            "public_id": "north_america/yukon_2025/20251006_120958"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 60.80284444444444,
+        "longitude": -136.56182777777778
+      }
+    },
+    {
+      "id": "cluster-84",
+      "photos": [
+        {
+          "id": "20251009_225116.jpg",
+          "url": "north_america/yukon_2025/20251009_225116",
+          "position": {
+            "latitude": 60.720822222222225,
+            "longitude": -135.0557138888889
+          },
+          "date": "2025-10-09T22:51:16Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1795364088/north_america/yukon_2025/20251009_225116.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1795364088/north_america/yukon_2025/20251009_225116.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1795364088/north_america/yukon_2025/20251009_225116.jpg",
+            "public_id": "north_america/yukon_2025/20251009_225116"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 60.720822222222225,
+        "longitude": -135.0557138888889
+      }
+    }
+  ],
+  "independentPhotos": [],
+  "description": ""
+}

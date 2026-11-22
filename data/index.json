@@ -1,13 +1,12 @@
 {
   "travels": [
     {
-      "id": "usa_2025",
-      "name": "USA 2025",
+      "id": "north_america",
+      "name": "Amérique du Nord",
       "startDate": "2024-11-26T22:43:49Z",
-      "endDate": "2025-08-14T20:56:15Z",
+      "endDate": "2026-08-27T14:14:14Z",
       "description": "",
-      "file": "data/usa_2025/travel.json",
-      "coverPhotoUrl": "data/usa_2025/bc_2025/20250512_135051.jpg"
+      "file": "data/north_america/travel.json"
     }
   ]
 }

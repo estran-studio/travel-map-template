@@ -1,15 +1,18 @@
 {
-  "id": "usa_2025",
-  "name": "USA 2025",
+  "id": "north_america",
+  "name": "Amérique du Nord",
   "startDate": "2024-11-26T22:43:49Z",
-  "endDate": "2025-08-14T20:56:15Z",
+  "endDate": "2026-08-27T14:14:14Z",
   "itineraries": [
     "rust_belt",
     "alabama",
     "new_orlean_missisipi",
     "new_mexico",
     "nort_west",
-    "bc_2025"
+    "bc_2025",
+    "yukon_2025",
+    "usa_2026",
+    "quebec_2026"
   ],
   "description": ""
 }
