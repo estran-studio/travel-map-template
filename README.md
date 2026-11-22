@@ -45,11 +45,11 @@ To generate the required JSON files for your travel data, you can use the provid
 
 1. Pull the pre-built Docker image:
    ```sh
-   docker pull ghcr.io/bascanada/travel-site-builder:latest
+   docker pull ghcr.io/estran-studio/travel-site-builder:latest
    ```
 2. Run the script inside the container, mounting your data directory:
    ```sh
-   docker run --rm -v $(pwd)/data:/app/data ghcr.io/bascanada/travel-site-builder:latest node scripts/process-all-travel-data.js ./data
+   docker run --rm -v $(pwd)/data:/app/data ghcr.io/estran-studio/travel-site-builder:latest node scripts/process-all-travel-data.js ./data
    ```
    - Replace `scripts/process-all-travel-data.js` with the script you want to run.
    - Adjust the volume path if your data is in a different location.
